@@ -1,29 +1,25 @@
-var map = null;
-
+/**
+ * Created by angus on 10/9/16.
+ */
 $(document).ready(function () {
-    setUpLeaflet();
-    loadAllLotMarkersOnLeafletMap(map);
-    loadAllTrafficDataMap(map);
-    loadTrafficHeatMap(map);
-    removeLoadingScreen();
+    $("#btn-start").click(function () {
+        console.log("test");
+        $("#circle").css("display", "block");
+
+        var ms = 0;
+        var interval = setInterval(function () {
+            $("#circle").css({
+                "width": ms * 10,
+                "height": ms * 10
+            });
+            ms++;
+
+            if (ms > 300) {
+                $("#hero").addClass("animated fadeOut");
+                clearInterval(interval);
+
+                window.location.href = "map";
+            }
+        }, 1);
+    });
 });
-
-function setUpLeaflet() {
-    map = L.map("map", {closePopupOnClick: false}).setView([userLat, userLong], 15);
-
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        minZoom: 13,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-}
-
-function removeLoadingScreen() {
-    setInterval(function () {
-        $("#modal").addClass("animated rollOut");
-        $(".lot-block").addClass("animated lightSpeedIn");
-
-        setInterval(function () {
-            $("#modal").css("display", "none");
-        }, 200);
-    }, 1000);
-}

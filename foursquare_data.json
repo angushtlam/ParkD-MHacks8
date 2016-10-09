@@ -1,1 +1,2174 @@
-{"results": {"1": {"location": {"longitude": -83.0542696, "latitude": 42.3259106}, "categories": {"nightlife": [{"longitude": -83.05376989148958, "name": "Tommy's Detroit Bar & Grill", "latitude": 42.32720121329311, "check_ins": 1477}, {"longitude": -83.05061871512301, "name": "Cellar D Cafe & Lounge", "latitude": 42.328344973193516, "check_ins": 48}, {"longitude": -83.0494337079177, "name": "Delta Sky360 Lounge", "latitude": 42.32812468949382, "check_ins": 10}, {"longitude": -83.050744, "name": "The Detroit Club712 Cass Avenue", "latitude": 42.329318, "check_ins": 0}, {"longitude": -83.05321653333333, "name": "Mikes Mary Jane", "latitude": 42.329689683333335, "check_ins": 3}, {"longitude": -83.051419, "name": "Miller Lite Party Deck at The Joe", "latitude": 42.325197, "check_ins": 75}, {"longitude": -83.05026216652735, "name": "Ciccarelli's Sports Bar", "latitude": 42.32838268859445, "check_ins": 222}, {"longitude": -83.05141045583011, "name": "Comerica Bank Legends Club", "latitude": 42.325252168361025, "check_ins": 142}, {"longitude": -83.048644, "name": "U.S. Social Forum", "latitude": 42.328036, "check_ins": 45}, {"longitude": -83.053931, "name": "Max On Third", "latitude": 42.327421, "check_ins": 171}, {"longitude": -83.05054473876953, "name": "Southwoods Pub And Grill", "latitude": 42.330623626708984, "check_ins": 0}, {"longitude": -83.047708, "name": "The Vu", "latitude": 42.326099, "check_ins": 91}, {"longitude": -83.059858, "name": "Bakari Anwar Lounge", "latitude": 42.326277, "check_ins": 105}, {"longitude": -83.0522096157074, "name": "Olympia Club", "latitude": 42.32538821283585, "check_ins": 1002}, {"longitude": -83.05155848333334, "name": "The Anchor Bar", "latitude": 42.329284, "check_ins": 5638}, {"longitude": -83.05523794207325, "name": "Signature Grille Bar", "latitude": 42.32396682124744, "check_ins": 638}, {"longitude": -83.05296244970077, "name": "Round Bar", "latitude": 42.329428016671784, "check_ins": 1048}, {"longitude": -83.05088612530166, "name": "Cobo Joe's", "latitude": 42.32826161170011, "check_ins": 1474}, {"longitude": -83.05245637893677, "name": "Finn & Porter Restaurant", "latitude": 42.32887034368453, "check_ins": 831}], "food": [{"longitude": -83.05550533347291, "name": "SUBWAY", "latitude": 42.32669831048064, "check_ins": 17}, {"longitude": -83.05164640320446, "name": "Buffalo Wild Wings", "latitude": 42.32523715966513, "check_ins": 34}, {"longitude": -83.04868389144872, "name": "Cork & Grind", "latitude": 42.32776810434997, "check_ins": 4}, {"longitude": -83.06006654869199, "name": "Reggie's Soul Food Cafe", "latitude": 42.326045885214576, "check_ins": 52}, {"longitude": -83.0602710095498, "name": "Haz Subs & Salads", "latitude": 42.325121260693514, "check_ins": 86}, {"longitude": -83.05090709860303, "name": "Sterling Services Comerica 411", "latitude": 42.32939618788168, "check_ins": 517}, {"longitude": -83.053103, "name": "Bearclaw Coffee Co", "latitude": 42.32947, "check_ins": 341}, {"longitude": -83.05061871512301, "name": "Cellar D Cafe & Lounge", "latitude": 42.328344973193516, "check_ins": 48}, {"longitude": -83.051567, "name": "Sodexho", "latitude": 42.330078, "check_ins": 0}, {"longitude": -83.05025692315124, "name": "Avanti Press-Detroit", "latitude": 42.32865322310704, "check_ins": 553}, {"longitude": -83.05478, "name": "Starbucks @ The Doubletree", "latitude": 42.329958, "check_ins": 1}, {"longitude": -83.0485632907994, "name": "Eatsville USA", "latitude": 42.327990502629014, "check_ins": 9}, {"longitude": -83.047708, "name": "The Vu", "latitude": 42.326099, "check_ins": 91}, {"longitude": -83.05252726592461, "name": "Motor City Kitchen", "latitude": 42.32924493307363, "check_ins": 36}, {"longitude": -83.05884501288243, "name": "The Pickle Shack", "latitude": 42.32640923705075, "check_ins": 12}, {"longitude": -83.05739801405873, "name": "Salubres", "latitude": 42.32940219512221, "check_ins": 2}, {"longitude": -83.05331, "name": "Prism", "latitude": 42.32924, "check_ins": 112}, {"longitude": -83.04892509208429, "name": "Rybas Fudge", "latitude": 42.32573437794764, "check_ins": 11}, {"longitude": -83.06027, "name": "Coney King", "latitude": 42.32541437, "check_ins": 419}, {"longitude": -83.04918726568529, "name": "The Bean Bar", "latitude": 42.32870530686395, "check_ins": 383}, {"longitude": -83.0501835158417, "name": "Gateway Deli", "latitude": 42.329767228804165, "check_ins": 476}, {"longitude": -83.05296244970077, "name": "Round Bar", "latitude": 42.329428016671784, "check_ins": 1048}, {"longitude": -83.06154338097065, "name": "Burger King", "latitude": 42.32555823095665, "check_ins": 506}, {"longitude": -83.05245637893677, "name": "Finn & Porter Restaurant", "latitude": 42.32887034368453, "check_ins": 831}], "college": [{"longitude": -83.05431517124603, "name": "Wayne County Community College District Office Building", "latitude": 42.32711867133332, "check_ins": 619}, {"longitude": -83.05570980851554, "name": "Wayne County Community College (Downtown Campus)", "latitude": 42.326594450639845, "check_ins": 920}, {"longitude": -83.0549669265747, "name": "Beat Box", "latitude": 42.32488848348208, "check_ins": 6}, {"longitude": -83.055652136132, "name": "Wayne County Community College", "latitude": 42.32658905611136, "check_ins": 251}, {"longitude": -83.05534280157524, "name": "visual arts class", "latitude": 42.326319935712064, "check_ins": 2}, {"longitude": -83.05537950236145, "name": "wcccd school library", "latitude": 42.32631258916646, "check_ins": 4}, {"longitude": -83.05253601074219, "name": "subway WCCC", "latitude": 42.32886505126953, "check_ins": 1}, {"longitude": -83.04908763983997, "name": "Mt Elliot Makerspace", "latitude": 42.328826334278475, "check_ins": 3}, {"longitude": -83.05626031508548, "name": "Wayne County Community College District Downtown Campus Bookstore", "latitude": 42.32645277875415, "check_ins": 155}], "work": [{"longitude": -83.05457208033373, "name": "Joe Louis Arena Parking Garage", "latitude": 42.32541700126064, "check_ins": 2305}, {"longitude": -83.05190332271631, "name": "First Street Parking Garage", "latitude": 42.32817474208524, "check_ins": 1543}, {"longitude": -83.05857239235048, "name": "Salvation Army", "latitude": 42.326149980690694, "check_ins": 396}, {"longitude": -83.04960250854492, "name": "Cobo Center", "latitude": 42.32685564910629, "check_ins": 21699}, {"longitude": -83.04829863333333, "name": "MACUL11", "latitude": 42.32722, "check_ins": 20}, {"longitude": -83.05552106234492, "name": "Legal Aid and Defenders Association", "latitude": 42.3302277471528, "check_ins": 329}, {"longitude": -83.05036703396195, "name": "World Asset Management", "latitude": 42.32994978664618, "check_ins": 10}, {"longitude": -83.0512007241202, "name": "The Z", "latitude": 42.33029297426193, "check_ins": 15}, {"longitude": -83.05990402806933, "name": "Howard Parking Lot", "latitude": 42.328681842826825, "check_ins": 311}, {"longitude": -83.0500087668903, "name": "Gurewitz & Raben", "latitude": 42.3295737388381, "check_ins": 0}, {"longitude": -83.0502778966532, "name": "Fort Washington Plaza", "latitude": 42.32942559134141, "check_ins": 330}, {"longitude": -83.05449343480122, "name": "RR Donnelley", "latitude": 42.32760848749417, "check_ins": 43}, {"longitude": -83.04959101098768, "name": "US Department of State", "latitude": 42.32908958396006, "check_ins": 8}, {"longitude": -83.05505443754241, "name": "AFSCME LOCAL 25", "latitude": 42.329303142360125, "check_ins": 149}, {"longitude": -83.05572029439803, "name": "MRJ Consulting", "latitude": 42.33015427214265, "check_ins": 25}, {"longitude": -83.05020973274736, "name": "Crystal Ballroom", "latitude": 42.33060769040349, "check_ins": 6}, {"longitude": -83.05025692315124, "name": "Avanti Press-Detroit", "latitude": 42.32865322310704, "check_ins": 553}, {"longitude": -83.0521326, "name": "Detroit MiWorks - South", "latitude": 42.3289187, "check_ins": 1}, {"longitude": -83.053759932518, "name": "Fort Street Presbyterian Church", "latitude": 42.32761323451996, "check_ins": 268}, {"longitude": -83.04794455355714, "name": "Aisin Drive Green Experience", "latitude": 42.32620962824312, "check_ins": 13}, {"longitude": -83.05659722222222, "name": "Performax", "latitude": 42.32729166666667, "check_ins": 1}, {"longitude": -83.055678, "name": "Wintex", "latitude": 42.322697, "check_ins": 3}, {"longitude": -83.0528815, "name": "BEI Associates, Inc.", "latitude": 42.3284374, "check_ins": 6}, {"longitude": -83.04842171584203, "name": "Foreman Bros. Inc.", "latitude": 42.32806681906185, "check_ins": 3226}, {"longitude": -83.0550596805361, "name": "Michigan Forward", "latitude": 42.3291086337718, "check_ins": 48}, {"longitude": -83.05415263640695, "name": "Detroit Free Press", "latitude": 42.328586575523026, "check_ins": 3207}, {"longitude": -83.05170407910059, "name": "Comerica Bank", "latitude": 42.33002904329738, "check_ins": 1435}, {"longitude": -83.04960149784564, "name": "West Fort Street Building", "latitude": 42.329469083830794, "check_ins": 1453}, {"longitude": -83.0535024930339, "name": "WDIV Local 4 News", "latitude": 42.32959643929145, "check_ins": 1249}, {"longitude": -83.05292040109634, "name": "DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby", "latitude": 42.32917333545208, "check_ins": 6983}]}}, "124": {"location": {"longitude": -83.047012, "latitude": 42.337933}, "categories": {"nightlife": [{"longitude": -83.04652353329087, "name": "The Skip", "latitude": 42.334647700352164, "check_ins": 241}, {"longitude": -83.04668084331783, "name": "Elwood Bar & Grill", "latitude": 42.33872708319815, "check_ins": 3719}, {"longitude": -83.05195051190532, "name": "The Fillmore Detroit", "latitude": 42.33758905638648, "check_ins": 15311}, {"longitude": -83.04949522018433, "name": "Tiger Club", "latitude": 42.338244963350846, "check_ins": 1712}, {"longitude": -83.04619842471024, "name": "Punch Bowl Social", "latitude": 42.33501780502067, "check_ins": 2754}, {"longitude": -83.05260121822357, "name": "Hockeytown Cafe", "latitude": 42.33899439673061, "check_ins": 11177}, {"longitude": -83.04151039020242, "name": "Detroiter Bar/Malaka's", "latitude": 42.33318040099984, "check_ins": 3469}, {"longitude": -83.04620891210888, "name": "La Casa De La Habana Cigar Bar", "latitude": 42.33676782563287, "check_ins": 2678}, {"longitude": -83.04775578510466, "name": "Queen's", "latitude": 42.33474003977068, "check_ins": 186}, {"longitude": -83.0472786179909, "name": "Vertical Detroit", "latitude": 42.33632462576732, "check_ins": 170}, {"longitude": -83.05238, "name": "Rusted Crow Detroit", "latitude": 42.336475, "check_ins": 115}, {"longitude": -83.04536991493714, "name": "Centre Park Bar", "latitude": 42.335362705502654, "check_ins": 273}, {"longitude": -83.04983220829787, "name": "Cheli's Chili Bar", "latitude": 42.33764106655112, "check_ins": 7906}, {"longitude": -83.04195613491521, "name": "Level Two Bar & Rooftop", "latitude": 42.335310412822444, "check_ins": 1467}, {"longitude": -83.04371810800092, "name": "The Old Shillelagh", "latitude": 42.33456921120238, "check_ins": 12548}, {"longitude": -83.04503955686609, "name": "The Well Bar", "latitude": 42.33443348430577, "check_ins": 4700}, {"longitude": -83.04922396990607, "name": "Cornerstone Barrel House", "latitude": 42.3349864526831, "check_ins": 1008}, {"longitude": -83.05016254230964, "name": "Downtown Louie's", "latitude": 42.334473964329995, "check_ins": 871}, {"longitude": -83.04887265723872, "name": "Detroit Beer Company", "latitude": 42.33603540302849, "check_ins": 15650}, {"longitude": -83.04331432666741, "name": "Firebird Tavern", "latitude": 42.33472045352259, "check_ins": 2142}, {"longitude": -83.0513213199351, "name": "R.U.B BBQ Pub", "latitude": 42.336848154407875, "check_ins": 5768}, {"longitude": -83.04994231981942, "name": "Cafe d'Mongo's", "latitude": 42.334321510651314, "check_ins": 3248}, {"longitude": -83.04204528349563, "name": "Loco's Bar & Grill", "latitude": 42.33390936187725, "check_ins": 3838}, {"longitude": -83.04217638412987, "name": "Exodos Lounge", "latitude": 42.33523957441603, "check_ins": 1242}, {"longitude": -83.04224789142609, "name": "Pappy's Bar & Grill", "latitude": 42.33512817634233, "check_ins": 2789}, {"longitude": -83.04366646666666, "name": "Harbor House", "latitude": 42.336168799999996, "check_ins": 1518}, {"longitude": -83.05273532867432, "name": "Cliff Bell's", "latitude": 42.33680158500915, "check_ins": 6700}, {"longitude": -83.05276215076447, "name": "The Park Bar", "latitude": 42.336940372827776, "check_ins": 5952}, {"longitude": -83.04294725057866, "name": "Atheneum Suite Hotel", "latitude": 42.33401708080596, "check_ins": 3624}, {"longitude": -83.04291578681867, "name": "Bouzouki", "latitude": 42.33363939323706, "check_ins": 1561}], "food": [{"longitude": -83.04668084331783, "name": "Elwood Bar & Grill", "latitude": 42.33872708319815, "check_ins": 3719}, {"longitude": -83.04157856311869, "name": "Pizza Papalis Taverna", "latitude": 42.335431985657685, "check_ins": 7042}, {"longitude": -83.04582612097596, "name": "The Standby", "latitude": 42.33441555658652, "check_ins": 617}, {"longitude": -83.04177259334013, "name": "Astoria Pastry Shop", "latitude": 42.335209601480074, "check_ins": 6023}, {"longitude": -83.05260121822357, "name": "Hockeytown Cafe", "latitude": 42.33899439673061, "check_ins": 11177}, {"longitude": -83.0447354162236, "name": "Buffalo Wild Wings", "latitude": 42.334236067332505, "check_ins": 6019}, {"longitude": -83.04619842471024, "name": "Punch Bowl Social", "latitude": 42.33501780502067, "check_ins": 2754}, {"longitude": -83.04151039020242, "name": "Detroiter Bar/Malaka's", "latitude": 42.33318040099984, "check_ins": 3469}, {"longitude": -83.04675425453506, "name": "jose's tacos", "latitude": 42.33579228017809, "check_ins": 255}, {"longitude": -83.04983220829787, "name": "Cheli's Chili Bar", "latitude": 42.33764106655112, "check_ins": 7906}, {"longitude": -83.04371810800092, "name": "The Old Shillelagh", "latitude": 42.33456921120238, "check_ins": 12548}, {"longitude": -83.04522, "name": "Orchid Thai", "latitude": 42.333616, "check_ins": 1416}, {"longitude": -83.04887265723872, "name": "Detroit Beer Company", "latitude": 42.33603540302849, "check_ins": 15650}, {"longitude": -83.049322, "name": "Ashe Supply Co. Caf\u00e9 & Roasterie", "latitude": 42.336128, "check_ins": 429}, {"longitude": -83.05273532867432, "name": "Cliff Bell's", "latitude": 42.33680158500915, "check_ins": 6700}, {"longitude": -83.04926591756188, "name": "Wright & Co.", "latitude": 42.33501802778794, "check_ins": 1911}, {"longitude": -83.04224789142609, "name": "Pappy's Bar & Grill", "latitude": 42.33512817634233, "check_ins": 2789}, {"longitude": -83.04317593574524, "name": "Fishbone's Rhythm Kitchen Cafe", "latitude": 42.33432714506075, "check_ins": 10613}, {"longitude": -83.04331432666741, "name": "Firebird Tavern", "latitude": 42.33472045352259, "check_ins": 2142}, {"longitude": -83.04366646666666, "name": "Harbor House", "latitude": 42.336168799999996, "check_ins": 1518}, {"longitude": -83.04722093821528, "name": "Vicente's Cuban Cuisine", "latitude": 42.3342711737235, "check_ins": 3785}, {"longitude": -83.04834830648495, "name": "The Hudson Cafe", "latitude": 42.333535688876935, "check_ins": 6100}, {"longitude": -83.04204528349563, "name": "Loco's Bar & Grill", "latitude": 42.33390936187725, "check_ins": 3838}, {"longitude": -83.04654975165481, "name": "7 Greens", "latitude": 42.33411238556305, "check_ins": 372}, {"longitude": -83.04962247155655, "name": "Urban Bean Coffee", "latitude": 42.3337878985443, "check_ins": 1018}, {"longitude": -83.04167820033085, "name": "Pegasus Taverna", "latitude": 42.33522397431423, "check_ins": 6031}, {"longitude": -83.042416, "name": "Santorini Estiatorio Detroit", "latitude": 42.335034, "check_ins": 1391}, {"longitude": -83.04994231981942, "name": "Cafe d'Mongo's", "latitude": 42.334321510651314, "check_ins": 3248}, {"longitude": -83.0513213199351, "name": "R.U.B BBQ Pub", "latitude": 42.336848154407875, "check_ins": 5768}, {"longitude": -83.05016254230964, "name": "Downtown Louie's", "latitude": 42.334473964329995, "check_ins": 871}], "college": [{"longitude": -83.046383, "name": "Lions Locker Room", "latitude": 42.33894836666666, "check_ins": 126}, {"longitude": -83.04795504067752, "name": "Grand Valley State University - Detroit", "latitude": 42.33737117184094, "check_ins": 79}, {"longitude": -83.04600965124902, "name": "Detroit Athletic Club University", "latitude": 42.33701381436167, "check_ins": 3}, {"longitude": -83.04568481445312, "name": "Detroit Training Center", "latitude": 42.33476638793945, "check_ins": 15}, {"longitude": -83.045673, "name": "Bodman Training Room", "latitude": 42.338926, "check_ins": 1}, {"longitude": -83.051388, "name": "study city", "latitude": 42.339322, "check_ins": 3}], "work": [{"longitude": -83.05178272796836, "name": "Fox Office", "latitude": 42.3387004099476, "check_ins": 2999}, {"longitude": -83.04539613376066, "name": "36th District Court", "latitude": 42.337376460408635, "check_ins": 2556}, {"longitude": -83.04221833627771, "name": "Frank Murphy Hall of Justice", "latitude": 42.33692885342871, "check_ins": 2436}, {"longitude": -83.04132160329671, "name": "Wayne County Juvenile Detention Facility", "latitude": 42.33670644262623, "check_ins": 2046}, {"longitude": -83.05348152056004, "name": "Fox Parking Garage", "latitude": 42.33852669245976, "check_ins": 3299}, {"longitude": -83.05218121411987, "name": "Fox Theatre", "latitude": 42.33857952985405, "check_ins": 12470}, {"longitude": -83.0458995331466, "name": "Campbell Ewald", "latitude": 42.33904929962598, "check_ins": 2387}, {"longitude": -83.04340871733083, "name": "Ford Field Parking Deck", "latitude": 42.33978183383167, "check_ins": 1813}, {"longitude": -83.0472786179909, "name": "Vertical Detroit", "latitude": 42.33632462576732, "check_ins": 170}, {"longitude": -83.051547, "name": "Open Systems Technologies (OST)", "latitude": 42.336816, "check_ins": 8}, {"longitude": -83.04931835209405, "name": "Media Lot", "latitude": 42.34027794661684, "check_ins": 356}, {"longitude": -83.04587331452363, "name": "Jack Morton Worldwide", "latitude": 42.33902761325364, "check_ins": 200}, {"longitude": -83.04667559965631, "name": "One Campus Martius", "latitude": 42.33250329213254, "check_ins": 212}, {"longitude": -83.05164115993867, "name": "Commonwealth//McCann", "latitude": 42.337666636455374, "check_ins": 527}, {"longitude": -83.05059774172969, "name": "David Whitney Building", "latitude": 42.335879768694554, "check_ins": 222}, {"longitude": -83.04926, "name": "Ernie Harwell Media Center", "latitude": 42.339825, "check_ins": 6}, {"longitude": -83.04572124630442, "name": "On The Field @ Ford Field", "latitude": 42.33983664931378, "check_ins": 98}, {"longitude": -83.04444176185599, "name": "Park Rite", "latitude": 42.33724397474269, "check_ins": 22}, {"longitude": -83.0469063203674, "name": "Z-Lot", "latitude": 42.33472143501486, "check_ins": 1076}, {"longitude": -83.0478973614948, "name": "Opera House Parking Center", "latitude": 42.336010682904465, "check_ins": 3862}, {"longitude": -83.04889363118195, "name": "Tigers Parking Garage", "latitude": 42.34053833404299, "check_ins": 603}, {"longitude": -83.05173029540029, "name": "Palms Building", "latitude": 42.33774768837438, "check_ins": 1637}, {"longitude": -83.05033557374912, "name": "Broderick Tower", "latitude": 42.33615443946605, "check_ins": 3683}, {"longitude": -83.04501593112946, "name": "Hilton Garden Inn", "latitude": 42.335857819719365, "check_ins": 4676}, {"longitude": -83.04624037429477, "name": "Compuware Parking Garage", "latitude": 42.33325013152354, "check_ins": 4315}, {"longitude": -83.04934501647949, "name": "Detroit Venture Partners", "latitude": 42.336056090913424, "check_ins": 463}]}}, "133": {"location": {"longitude": -83.2445063, "latitude": 42.3073777}, "categories": {"nightlife": [{"longitude": -83.24355840682983, "name": "Dearborn Brewing", "latitude": 42.306514725385874, "check_ins": 236}, {"longitude": -83.24925810098648, "name": "Bar Louie", "latitude": 42.30473140783535, "check_ins": 54}, {"longitude": -83.24320107237043, "name": "Nar Bar", "latitude": 42.30667371424036, "check_ins": 225}, {"longitude": -83.24773872651241, "name": "Beirgarten", "latitude": 42.305557501422705, "check_ins": 158}, {"longitude": -83.24455445, "name": "Parisian Bistro BoroBora Ultra Lounge", "latitude": 42.30592155, "check_ins": 9}, {"longitude": -83.24551598333333, "name": "The Bar", "latitude": 42.30518023333333, "check_ins": 9}, {"longitude": -83.24823533984726, "name": "B-dubs", "latitude": 42.30563093508587, "check_ins": 2}, {"longitude": -83.24320107237043, "name": "Liv Lounge", "latitude": 42.30617757323883, "check_ins": 17}, {"longitude": -83.24872149447205, "name": "Red Martini", "latitude": 42.304832018846845, "check_ins": 16}, {"longitude": -83.248742, "name": "Double Olive", "latitude": 42.304864, "check_ins": 1}, {"longitude": -83.24470146096593, "name": "Cigaro", "latitude": 42.30559012048172, "check_ins": 37}, {"longitude": -83.24580272, "name": "Bailey's", "latitude": 42.30552012, "check_ins": 5639}, {"longitude": -83.24519809761199, "name": "Post Bar", "latitude": 42.305709305416066, "check_ins": 2384}, {"longitude": -83.24872149447205, "name": "Moose's Martini Pub", "latitude": 42.30510500019462, "check_ins": 1660}, {"longitude": -83.248809, "name": "Le Cigar", "latitude": 42.30471396, "check_ins": 490}], "food": [{"longitude": -83.24529742448385, "name": "Brome Burgers & Shakes", "latitude": 42.30609966024857, "check_ins": 249}, {"longitude": -83.2452608303909, "name": "Kabuki Sushi", "latitude": 42.30618792354987, "check_ins": 1570}, {"longitude": -83.24925810098648, "name": "Bar Louie", "latitude": 42.30473140783535, "check_ins": 54}, {"longitude": -83.24445052731646, "name": "Downtown Deli", "latitude": 42.30609360834016, "check_ins": 20}, {"longitude": -83.24487397728554, "name": "Rio Wraps", "latitude": 42.306415495136484, "check_ins": 387}, {"longitude": -83.24342587148331, "name": "L.A. Bistro", "latitude": 42.30656876980717, "check_ins": 1119}, {"longitude": -83.24664093614066, "name": "bd Mongolian", "latitude": 42.303181951771926, "check_ins": 6}, {"longitude": -83.244113, "name": "Stadium", "latitude": 42.305554, "check_ins": 9}, {"longitude": -83.245499, "name": "Bellacino's Pizza and Grinders", "latitude": 42.305801, "check_ins": 10}, {"longitude": -83.24815169997359, "name": "Famous Hamburger", "latitude": 42.305167204206214, "check_ins": 102}, {"longitude": -83.2447, "name": "La Shish West", "latitude": 42.306069, "check_ins": 0}, {"longitude": -83.24361930265314, "name": "Al-Ajami West Restaurant", "latitude": 42.306188261342946, "check_ins": 1}, {"longitude": -83.248512, "name": "Lue Thai Caf\u00e9", "latitude": 42.305113, "check_ins": 129}, {"longitude": -83.24762894831342, "name": "Los Galanes", "latitude": 42.30579954378077, "check_ins": 25}, {"longitude": -83.24778577425496, "name": "Los Galanes Tacqueria", "latitude": 42.30537072669051, "check_ins": 11}, {"longitude": -83.24511445381219, "name": "Dearborn Food Truck Rally", "latitude": 42.30546143209739, "check_ins": 43}, {"longitude": -83.24923378248909, "name": "Osteria 222", "latitude": 42.3050460418917, "check_ins": 258}, {"longitude": -83.24757, "name": "La Fork Poutine & Cr\u00eapes", "latitude": 42.30474, "check_ins": 20}, {"longitude": -83.248329, "name": "Cold Stone Creamery", "latitude": 42.305227, "check_ins": 0}, {"longitude": -83.24504126539868, "name": "Yogurtown", "latitude": 42.305769571104385, "check_ins": 614}, {"longitude": -83.24223697884008, "name": "Westborn Flower Market", "latitude": 42.30634451301402, "check_ins": 4207}, {"longitude": -83.246951, "name": "Starbucks", "latitude": 42.30518, "check_ins": 5752}, {"longitude": -83.24823533984726, "name": "Buffalo Wild Wings", "latitude": 42.30535582819231, "check_ins": 5627}, {"longitude": -83.24580272, "name": "Bailey's", "latitude": 42.30552012, "check_ins": 5639}, {"longitude": -83.24720336666667, "name": "Buddy's Pizza", "latitude": 42.305739260685705, "check_ins": 5600}, {"longitude": -83.24821442988898, "name": "Panera Cares - A Community Cafe", "latitude": 42.30561628782913, "check_ins": 2546}, {"longitude": -83.23796773751292, "name": "Joe Vicari's Andiamo Italian Steakhouse", "latitude": 42.30800519263985, "check_ins": 1461}, {"longitude": -83.24647933244705, "name": "bd's Mongolian Grill", "latitude": 42.30528088926159, "check_ins": 5042}, {"longitude": -83.248747631714, "name": "iBurger Lounge", "latitude": 42.30450405912192, "check_ins": 305}, {"longitude": -83.24717402458191, "name": "Jimmy John's", "latitude": 42.30509442317802, "check_ins": 1006}], "college": [{"longitude": -83.244267, "name": "T-197", "latitude": 42.306202, "check_ins": 2}], "work": [{"longitude": -83.24406145, "name": "Valley of Detroit Scottish Rite Center", "latitude": 42.307172533333336, "check_ins": 497}, {"longitude": -83.24332456, "name": "Farmers Insurance", "latitude": 42.30777651, "check_ins": 0}, {"longitude": -83.2433997320917, "name": "St Paul Lutheran Church", "latitude": 42.30686907646464, "check_ins": 22}, {"longitude": -83.24256326598612, "name": "Querfeld Funeral Home", "latitude": 42.30403891340743, "check_ins": 58}, {"longitude": -83.24663048090473, "name": "Bryant Branch Library", "latitude": 42.30592372058741, "check_ins": 181}, {"longitude": -83.24821442988898, "name": "Dr. Colins And Dr. Mikula Chiropractic Facility", "latitude": 42.30662677502325, "check_ins": 30}, {"longitude": -83.24799487491903, "name": "East Parking Deck", "latitude": 42.30458696071693, "check_ins": 166}, {"longitude": -83.2467873092664, "name": "Dearborn Chamber Of Commerce", "latitude": 42.305990625441275, "check_ins": 101}, {"longitude": -83.244726, "name": "Executive Health", "latitude": 42.303639, "check_ins": 9}, {"longitude": -83.24348236666667, "name": "Dearborn Cadiology", "latitude": 42.302767616666664, "check_ins": 9}, {"longitude": -83.24121444162226, "name": "power operations engineering engines", "latitude": 42.304245717083695, "check_ins": 2}, {"longitude": -83.24367158124845, "name": "UAW HALL", "latitude": 42.30374410669756, "check_ins": 4}, {"longitude": -83.24598748064786, "name": "Comerica", "latitude": 42.3051104330464, "check_ins": 85}, {"longitude": -83.242829, "name": "Dearborn Dental & Associates", "latitude": 42.303315, "check_ins": 42}, {"longitude": -83.24705391660886, "name": "Scottrade", "latitude": 42.30553352202633, "check_ins": 6}, {"longitude": -83.24800010242699, "name": "All Brite Dental", "latitude": 42.30680091419308, "check_ins": 29}, {"longitude": -83.24188885731743, "name": "Brady Apartments", "latitude": 42.31046175110064, "check_ins": 53}, {"longitude": -83.249068, "name": "Performance Driven", "latitude": 42.306473, "check_ins": 2}, {"longitude": -83.24793243408203, "name": "22190 garrison suite 301", "latitude": 42.30666732788086, "check_ins": 3}, {"longitude": -83.24705391660886, "name": "Michigan Hand Associates", "latitude": 42.30553352202633, "check_ins": 1}, {"longitude": -83.24936446755827, "name": "Fidelity Bank Operations Center", "latitude": 42.30521472479764, "check_ins": 6}, {"longitude": -83.244653, "name": "Dr. Dickieson", "latitude": 42.30378, "check_ins": 5}, {"longitude": -83.24424, "name": "Trillium family dentistry", "latitude": 42.31017, "check_ins": 1}, {"longitude": -83.24732052285279, "name": "First United Methidist Church", "latitude": 42.30704068846783, "check_ins": 116}, {"longitude": -83.24572609660301, "name": "West Village Obgyn", "latitude": 42.306323134799726, "check_ins": 46}, {"longitude": -83.24800010242699, "name": "team mental health services", "latitude": 42.306312436389355, "check_ins": 10}, {"longitude": -83.248266704772, "name": "Garrison Square Professional Center", "latitude": 42.306823150922526, "check_ins": 9}, {"longitude": -83.2438754673667, "name": "UAW 245", "latitude": 42.30408796236334, "check_ins": 10}, {"longitude": -83.24262077337693, "name": "DaVita Dearborn", "latitude": 42.30463608560006, "check_ins": 70}, {"longitude": -83.250287, "name": "KMS Photography", "latitude": 42.306135, "check_ins": 2}]}}, "10": {"location": {"longitude": -83.0501601, "latitude": 42.3285765}, "categories": {"nightlife": [{"longitude": -83.05088612530166, "name": "Cobo Joe's", "latitude": 42.32826161170011, "check_ins": 1474}, {"longitude": -83.05155848333334, "name": "The Anchor Bar", "latitude": 42.329284, "check_ins": 5638}, {"longitude": -83.07288868317568, "name": "Motor City Wine", "latitude": 42.33119678468325, "check_ins": 2463}, {"longitude": -83.05050336137704, "name": "The Westin Book Cadillac Detroit", "latitude": 42.33190897783369, "check_ins": 15825}, {"longitude": -83.04759323405888, "name": "London Chop House", "latitude": 42.32941167958362, "check_ins": 1337}, {"longitude": -83.04814380855841, "name": "Drive - Table Tennis & Social Club", "latitude": 42.33046793687358, "check_ins": 95}, {"longitude": -83.0442949341809, "name": "Richard E. Durant Bar Stool", "latitude": 42.33126792123219, "check_ins": 50}, {"longitude": -83.047979, "name": "Climax Nightclub", "latitude": 42.329439, "check_ins": 2}, {"longitude": -83.04672181606293, "name": "Buhl Bar", "latitude": 42.329734897555795, "check_ins": 263}, {"longitude": -83.04613550028334, "name": "The Whiskey Parlor", "latitude": 42.33042737775734, "check_ins": 266}, {"longitude": -83.050799, "name": "Venitian Ballroom", "latitude": 42.331931, "check_ins": 7}, {"longitude": -83.04755128533674, "name": "150 Cafe", "latitude": 42.32870438582905, "check_ins": 164}, {"longitude": -83.04556, "name": "Parktoberfest", "latitude": 42.331535, "check_ins": 5}, {"longitude": -83.04742019540764, "name": "London Chop House Cigar Bar", "latitude": 42.32920528118992, "check_ins": 218}, {"longitude": -83.04658645734678, "name": "The Beach Bar", "latitude": 42.33139240991084, "check_ins": 264}, {"longitude": -83.044465, "name": "Cadillac Food Plaza", "latitude": 42.331867, "check_ins": 32}, {"longitude": -83.04952, "name": "whoops", "latitude": 42.332674, "check_ins": 1}, {"longitude": -83.04589033126831, "name": "World Of Bogner", "latitude": 42.328473755364314, "check_ins": 113}, {"longitude": -83.04761945199665, "name": "Urban Cellars", "latitude": 42.32794662380864, "check_ins": 39}, {"longitude": -83.04522514343262, "name": "Detroit Princess", "latitude": 42.32593553090683, "check_ins": 1154}, {"longitude": -83.05079340934753, "name": "Big City Bar & Grill", "latitude": 42.33096428856115, "check_ins": 1742}, {"longitude": -83.05039849415974, "name": "The Motor Bar", "latitude": 42.331594410160314, "check_ins": 1241}, {"longitude": -83.0522096157074, "name": "Olympia Club", "latitude": 42.32538821283585, "check_ins": 1002}, {"longitude": -83.04936554313726, "name": "The Bathtub Pub", "latitude": 42.331515826160334, "check_ins": 603}, {"longitude": -83.05296244970077, "name": "Round Bar", "latitude": 42.329428016671784, "check_ins": 1048}, {"longitude": -83.05077601535973, "name": "Roast", "latitude": 42.33202475701407, "check_ins": 6796}, {"longitude": -83.04635971784592, "name": "Hard Rock Cafe Detroit", "latitude": 42.33231460808727, "check_ins": 9164}, {"longitude": -83.05011535183809, "name": "24 Grille", "latitude": 42.331621939265304, "check_ins": 3687}, {"longitude": -83.05376989148958, "name": "Tommy's Detroit Bar & Grill", "latitude": 42.32720121329311, "check_ins": 1477}, {"longitude": -83.0457615852356, "name": "Grand Trunk Pub", "latitude": 42.33055185038616, "check_ins": 12965}], "food": [{"longitude": -83.05050336137704, "name": "The Westin Book Cadillac Detroit", "latitude": 42.33190897783369, "check_ins": 15825}, {"longitude": -83.0470189, "name": "Texas de Brazil - Detroit", "latitude": 42.3323961, "check_ins": 3320}, {"longitude": -83.04759323405888, "name": "London Chop House", "latitude": 42.32941167958362, "check_ins": 1337}, {"longitude": -83.0471842328772, "name": "Which Wich Superior Sandwiches", "latitude": 42.33033440085201, "check_ins": 202}, {"longitude": -83.0472207069397, "name": "Calexico - Detroit", "latitude": 42.332804364393, "check_ins": 120}, {"longitude": -83.04649731491648, "name": "The Fountain Detroit", "latitude": 42.33141600899818, "check_ins": 66}, {"longitude": -83.04804942468566, "name": "Bon Bon Bon", "latitude": 42.33044786215829, "check_ins": 128}, {"longitude": -83.04759323405888, "name": "Freshii", "latitude": 42.331627039906756, "check_ins": 175}, {"longitude": -83.04914531797931, "name": "Dessert Oasis Coffee", "latitude": 42.332892751280816, "check_ins": 292}, {"longitude": -83.04730483605401, "name": "Detroit Water Ice Factory", "latitude": 42.33265312139813, "check_ins": 289}, {"longitude": -83.04678047280707, "name": "Jimmy John's", "latitude": 42.32999754161835, "check_ins": 1576}, {"longitude": -83.05079340934753, "name": "Big City Bar & Grill", "latitude": 42.33096428856115, "check_ins": 1742}, {"longitude": -83.04683815296876, "name": "Starbucks", "latitude": 42.33151450222883, "check_ins": 1662}, {"longitude": -83.0457615852356, "name": "Grand Trunk Pub", "latitude": 42.33055185038616, "check_ins": 12965}, {"longitude": -83.04604635724223, "name": "Roasting Plant", "latitude": 42.33148561085084, "check_ins": 3398}, {"longitude": -83.04764042633934, "name": "Dime Store", "latitude": 42.33097398602006, "check_ins": 1314}, {"longitude": -83.04843744640789, "name": "American Coney Island", "latitude": 42.33158495805795, "check_ins": 7247}, {"longitude": -83.04614074398788, "name": "Bangkok Crossing", "latitude": 42.330549264383365, "check_ins": 1598}, {"longitude": -83.0466628074646, "name": "Quicken Loans Qube", "latitude": 42.330424945788224, "check_ins": 12665}, {"longitude": -83.04597818895284, "name": "Woodward Coney Island", "latitude": 42.330391997167624, "check_ins": 691}, {"longitude": -83.04581563351633, "name": "Central Kitchen + Bar", "latitude": 42.33148882328382, "check_ins": 652}, {"longitude": -83.04734678493328, "name": "Carnival Fresh Mex", "latitude": 42.33073985688322, "check_ins": 370}, {"longitude": -83.04894268512726, "name": "Lafayette Coney Island", "latitude": 42.33143224398473, "check_ins": 12018}, {"longitude": -83.05011535183809, "name": "24 Grille", "latitude": 42.331621939265304, "check_ins": 3687}, {"longitude": -83.04635971784592, "name": "Hard Rock Cafe Detroit", "latitude": 42.33231460808727, "check_ins": 9164}, {"longitude": -83.04499236272058, "name": "Lunchtime Global", "latitude": 42.33055066599405, "check_ins": 1082}, {"longitude": -83.0474936058001, "name": "Slices", "latitude": 42.33268464656886, "check_ins": 323}, {"longitude": -83.04600440753404, "name": "QZine", "latitude": 42.33046323497224, "check_ins": 1240}, {"longitude": -83.05077601535973, "name": "Roast", "latitude": 42.33202475701407, "check_ins": 6796}, {"longitude": -83.04559539647798, "name": "Townhouse Detroit", "latitude": 42.330306166048416, "check_ins": 1165}], "college": [{"longitude": -83.04908763983997, "name": "Mt Elliot Makerspace", "latitude": 42.328826334278475, "check_ins": 3}, {"longitude": -83.055652136132, "name": "Wayne County Community College", "latitude": 42.32658905611136, "check_ins": 251}, {"longitude": -83.05626031508548, "name": "Wayne County Community College District Downtown Campus Bookstore", "latitude": 42.32645277875415, "check_ins": 155}, {"longitude": -83.05537950236145, "name": "wcccd school library", "latitude": 42.32631258916646, "check_ins": 4}, {"longitude": -83.05253601074219, "name": "subway WCCC", "latitude": 42.32886505126953, "check_ins": 1}, {"longitude": -83.04738, "name": "The Iron Yard - Detroit", "latitude": 42.331962, "check_ins": 6}, {"longitude": -83.04708862304688, "name": "University of Phoenix Detroit Campus 1001 Woodward", "latitude": 42.33199691772461, "check_ins": 2}, {"longitude": -83.047449, "name": "CMU - Detroit Campus", "latitude": 42.331249, "check_ins": 5}, {"longitude": -83.05534280157524, "name": "visual arts class", "latitude": 42.326319935712064, "check_ins": 2}, {"longitude": -83.05570980851554, "name": "Wayne County Community College (Downtown Campus)", "latitude": 42.326594450639845, "check_ins": 920}, {"longitude": -83.05431517124603, "name": "Wayne County Community College District Office Building", "latitude": 42.32711867133332, "check_ins": 619}], "work": [{"longitude": -83.04960250854492, "name": "Cobo Center", "latitude": 42.32685564910629, "check_ins": 21699}, {"longitude": -83.05170407910059, "name": "Comerica Bank", "latitude": 42.33002904329738, "check_ins": 1435}, {"longitude": -83.05190332271631, "name": "First Street Parking Garage", "latitude": 42.32817474208524, "check_ins": 1543}, {"longitude": -83.07288868317568, "name": "Motor City Wine", "latitude": 42.33119678468325, "check_ins": 2463}, {"longitude": -83.04827489704599, "name": "Federal Reserve Building", "latitude": 42.33042071781019, "check_ins": 452}, {"longitude": -83.04833984375, "name": "AMBR Detroit", "latitude": 42.32928466796875, "check_ins": 61}, {"longitude": -83.04842171584203, "name": "Foreman Bros. Inc.", "latitude": 42.32806681906185, "check_ins": 3226}, {"longitude": -83.04780297726855, "name": "Quicken Loans Chrysler House", "latitude": 42.330700288619006, "check_ins": 1095}, {"longitude": -83.04896179645131, "name": "Archdiocese of Detroit", "latitude": 42.332691835673785, "check_ins": 293}, {"longitude": -83.0449504123406, "name": "Fleishman Hillard", "latitude": 42.33026927417342, "check_ins": 113}, {"longitude": -83.04668084331783, "name": "Benzinga World Headquarters", "latitude": 42.33238833442021, "check_ins": 285}, {"longitude": -83.04864194342186, "name": "Financial District Garage", "latitude": 42.33075209013738, "check_ins": 655}, {"longitude": -83.04643439077535, "name": "Rakasa's work", "latitude": 42.33288391933399, "check_ins": 653}, {"longitude": -83.05321412093198, "name": "McNamara Federal Building", "latitude": 42.33148304719379, "check_ins": 1927}, {"longitude": -83.04762840270996, "name": "Penobscot Building", "latitude": 42.33012354634199, "check_ins": 2658}, {"longitude": -83.04491894953809, "name": "iProspect", "latitude": 42.32966055820124, "check_ins": 1250}, {"longitude": -83.04543972015381, "name": "One Woodward Avenue", "latitude": 42.32887034368453, "check_ins": 3039}, {"longitude": -83.05292040109634, "name": "DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby", "latitude": 42.32917333545208, "check_ins": 6983}, {"longitude": -83.04769810574727, "name": "Crowne Plaza Detroit Downtown Riverfront", "latitude": 42.327890127158646, "check_ins": 1763}, {"longitude": -83.04628232385254, "name": "Guardian Building", "latitude": 42.32961572826946, "check_ins": 4273}, {"longitude": -83.04662840668395, "name": "Quicken Loans Headquarters", "latitude": 42.33258272338595, "check_ins": 13513}, {"longitude": -83.0466628074646, "name": "Quicken Loans Qube", "latitude": 42.330424945788224, "check_ins": 12665}, {"longitude": -83.04507101961096, "name": "One Detroit Center", "latitude": 42.33007019983283, "check_ins": 3141}, {"longitude": -83.04794979711754, "name": "Chrysler House", "latitude": 42.330839310788875, "check_ins": 3545}, {"longitude": -83.04580450057983, "name": "First National Building", "latitude": 42.3310753291462, "check_ins": 5797}, {"longitude": -83.0449818751281, "name": "Carat", "latitude": 42.329990419581684, "check_ins": 2838}, {"longitude": -83.05415263640695, "name": "Detroit Free Press", "latitude": 42.328586575523026, "check_ins": 3207}, {"longitude": -83.04377579084637, "name": "Coleman A. Young Municipal Center", "latitude": 42.32976149091639, "check_ins": 5022}, {"longitude": -83.04754257202148, "name": "1001 Woodward", "latitude": 42.33191605864348, "check_ins": 1348}, {"longitude": -83.04603586981769, "name": "Detroit One Parking", "latitude": 42.33099427919384, "check_ins": 2226}]}}}}
+{
+  "results": {
+    "1": {
+      "location": {
+        "longitude": -83.0542696,
+        "latitude": 42.3259106
+      },
+      "categories": {
+        "nightlife": [
+          {
+            "longitude": -83.05376989148958,
+            "name": "Tommy's Detroit Bar & Grill",
+            "latitude": 42.32720121329311,
+            "check_ins": 1477
+          },
+          {
+            "longitude": -83.05061871512301,
+            "name": "Cellar D Cafe & Lounge",
+            "latitude": 42.328344973193516,
+            "check_ins": 48
+          },
+          {
+            "longitude": -83.0494337079177,
+            "name": "Delta Sky360 Lounge",
+            "latitude": 42.32812468949382,
+            "check_ins": 10
+          },
+          {
+            "longitude": -83.050744,
+            "name": "The Detroit Club712 Cass Avenue",
+            "latitude": 42.329318,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.05321653333333,
+            "name": "Mikes Mary Jane",
+            "latitude": 42.329689683333335,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.051419,
+            "name": "Miller Lite Party Deck at The Joe",
+            "latitude": 42.325197,
+            "check_ins": 75
+          },
+          {
+            "longitude": -83.05026216652735,
+            "name": "Ciccarelli's Sports Bar",
+            "latitude": 42.32838268859445,
+            "check_ins": 222
+          },
+          {
+            "longitude": -83.05141045583011,
+            "name": "Comerica Bank Legends Club",
+            "latitude": 42.325252168361025,
+            "check_ins": 142
+          },
+          {
+            "longitude": -83.048644,
+            "name": "U.S. Social Forum",
+            "latitude": 42.328036,
+            "check_ins": 45
+          },
+          {
+            "longitude": -83.053931,
+            "name": "Max On Third",
+            "latitude": 42.327421,
+            "check_ins": 171
+          },
+          {
+            "longitude": -83.05054473876953,
+            "name": "Southwoods Pub And Grill",
+            "latitude": 42.330623626708984,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.047708,
+            "name": "The Vu",
+            "latitude": 42.326099,
+            "check_ins": 91
+          },
+          {
+            "longitude": -83.059858,
+            "name": "Bakari Anwar Lounge",
+            "latitude": 42.326277,
+            "check_ins": 105
+          },
+          {
+            "longitude": -83.0522096157074,
+            "name": "Olympia Club",
+            "latitude": 42.32538821283585,
+            "check_ins": 1002
+          },
+          {
+            "longitude": -83.05155848333334,
+            "name": "The Anchor Bar",
+            "latitude": 42.329284,
+            "check_ins": 5638
+          },
+          {
+            "longitude": -83.05523794207325,
+            "name": "Signature Grille Bar",
+            "latitude": 42.32396682124744,
+            "check_ins": 638
+          },
+          {
+            "longitude": -83.05296244970077,
+            "name": "Round Bar",
+            "latitude": 42.329428016671784,
+            "check_ins": 1048
+          },
+          {
+            "longitude": -83.05088612530166,
+            "name": "Cobo Joe's",
+            "latitude": 42.32826161170011,
+            "check_ins": 1474
+          },
+          {
+            "longitude": -83.05245637893677,
+            "name": "Finn & Porter Restaurant",
+            "latitude": 42.32887034368453,
+            "check_ins": 831
+          }
+        ],
+        "food": [
+          {
+            "longitude": -83.05550533347291,
+            "name": "SUBWAY",
+            "latitude": 42.32669831048064,
+            "check_ins": 17
+          },
+          {
+            "longitude": -83.05164640320446,
+            "name": "Buffalo Wild Wings",
+            "latitude": 42.32523715966513,
+            "check_ins": 34
+          },
+          {
+            "longitude": -83.04868389144872,
+            "name": "Cork & Grind",
+            "latitude": 42.32776810434997,
+            "check_ins": 4
+          },
+          {
+            "longitude": -83.06006654869199,
+            "name": "Reggie's Soul Food Cafe",
+            "latitude": 42.326045885214576,
+            "check_ins": 52
+          },
+          {
+            "longitude": -83.0602710095498,
+            "name": "Haz Subs & Salads",
+            "latitude": 42.325121260693514,
+            "check_ins": 86
+          },
+          {
+            "longitude": -83.05090709860303,
+            "name": "Sterling Services Comerica 411",
+            "latitude": 42.32939618788168,
+            "check_ins": 517
+          },
+          {
+            "longitude": -83.053103,
+            "name": "Bearclaw Coffee Co",
+            "latitude": 42.32947,
+            "check_ins": 341
+          },
+          {
+            "longitude": -83.05061871512301,
+            "name": "Cellar D Cafe & Lounge",
+            "latitude": 42.328344973193516,
+            "check_ins": 48
+          },
+          {
+            "longitude": -83.051567,
+            "name": "Sodexho",
+            "latitude": 42.330078,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.05025692315124,
+            "name": "Avanti Press-Detroit",
+            "latitude": 42.32865322310704,
+            "check_ins": 553
+          },
+          {
+            "longitude": -83.05478,
+            "name": "Starbucks @ The Doubletree",
+            "latitude": 42.329958,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.0485632907994,
+            "name": "Eatsville USA",
+            "latitude": 42.327990502629014,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.047708,
+            "name": "The Vu",
+            "latitude": 42.326099,
+            "check_ins": 91
+          },
+          {
+            "longitude": -83.05252726592461,
+            "name": "Motor City Kitchen",
+            "latitude": 42.32924493307363,
+            "check_ins": 36
+          },
+          {
+            "longitude": -83.05884501288243,
+            "name": "The Pickle Shack",
+            "latitude": 42.32640923705075,
+            "check_ins": 12
+          },
+          {
+            "longitude": -83.05739801405873,
+            "name": "Salubres",
+            "latitude": 42.32940219512221,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.05331,
+            "name": "Prism",
+            "latitude": 42.32924,
+            "check_ins": 112
+          },
+          {
+            "longitude": -83.04892509208429,
+            "name": "Rybas Fudge",
+            "latitude": 42.32573437794764,
+            "check_ins": 11
+          },
+          {
+            "longitude": -83.06027,
+            "name": "Coney King",
+            "latitude": 42.32541437,
+            "check_ins": 419
+          },
+          {
+            "longitude": -83.04918726568529,
+            "name": "The Bean Bar",
+            "latitude": 42.32870530686395,
+            "check_ins": 383
+          },
+          {
+            "longitude": -83.0501835158417,
+            "name": "Gateway Deli",
+            "latitude": 42.329767228804165,
+            "check_ins": 476
+          },
+          {
+            "longitude": -83.05296244970077,
+            "name": "Round Bar",
+            "latitude": 42.329428016671784,
+            "check_ins": 1048
+          },
+          {
+            "longitude": -83.06154338097065,
+            "name": "Burger King",
+            "latitude": 42.32555823095665,
+            "check_ins": 506
+          },
+          {
+            "longitude": -83.05245637893677,
+            "name": "Finn & Porter Restaurant",
+            "latitude": 42.32887034368453,
+            "check_ins": 831
+          }
+        ],
+        "college": [
+          {
+            "longitude": -83.05431517124603,
+            "name": "Wayne County Community College District Office Building",
+            "latitude": 42.32711867133332,
+            "check_ins": 619
+          },
+          {
+            "longitude": -83.05570980851554,
+            "name": "Wayne County Community College (Downtown Campus)",
+            "latitude": 42.326594450639845,
+            "check_ins": 920
+          },
+          {
+            "longitude": -83.0549669265747,
+            "name": "Beat Box",
+            "latitude": 42.32488848348208,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.055652136132,
+            "name": "Wayne County Community College",
+            "latitude": 42.32658905611136,
+            "check_ins": 251
+          },
+          {
+            "longitude": -83.05534280157524,
+            "name": "visual arts class",
+            "latitude": 42.326319935712064,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.05537950236145,
+            "name": "wcccd school library",
+            "latitude": 42.32631258916646,
+            "check_ins": 4
+          },
+          {
+            "longitude": -83.05253601074219,
+            "name": "subway WCCC",
+            "latitude": 42.32886505126953,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.04908763983997,
+            "name": "Mt Elliot Makerspace",
+            "latitude": 42.328826334278475,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.05626031508548,
+            "name": "Wayne County Community College District Downtown Campus Bookstore",
+            "latitude": 42.32645277875415,
+            "check_ins": 155
+          }
+        ],
+        "work": [
+          {
+            "longitude": -83.05457208033373,
+            "name": "Joe Louis Arena Parking Garage",
+            "latitude": 42.32541700126064,
+            "check_ins": 2305
+          },
+          {
+            "longitude": -83.05190332271631,
+            "name": "First Street Parking Garage",
+            "latitude": 42.32817474208524,
+            "check_ins": 1543
+          },
+          {
+            "longitude": -83.05857239235048,
+            "name": "Salvation Army",
+            "latitude": 42.326149980690694,
+            "check_ins": 396
+          },
+          {
+            "longitude": -83.04960250854492,
+            "name": "Cobo Center",
+            "latitude": 42.32685564910629,
+            "check_ins": 21699
+          },
+          {
+            "longitude": -83.04829863333333,
+            "name": "MACUL11",
+            "latitude": 42.32722,
+            "check_ins": 20
+          },
+          {
+            "longitude": -83.05552106234492,
+            "name": "Legal Aid and Defenders Association",
+            "latitude": 42.3302277471528,
+            "check_ins": 329
+          },
+          {
+            "longitude": -83.05036703396195,
+            "name": "World Asset Management",
+            "latitude": 42.32994978664618,
+            "check_ins": 10
+          },
+          {
+            "longitude": -83.0512007241202,
+            "name": "The Z",
+            "latitude": 42.33029297426193,
+            "check_ins": 15
+          },
+          {
+            "longitude": -83.05990402806933,
+            "name": "Howard Parking Lot",
+            "latitude": 42.328681842826825,
+            "check_ins": 311
+          },
+          {
+            "longitude": -83.0500087668903,
+            "name": "Gurewitz & Raben",
+            "latitude": 42.3295737388381,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.0502778966532,
+            "name": "Fort Washington Plaza",
+            "latitude": 42.32942559134141,
+            "check_ins": 330
+          },
+          {
+            "longitude": -83.05449343480122,
+            "name": "RR Donnelley",
+            "latitude": 42.32760848749417,
+            "check_ins": 43
+          },
+          {
+            "longitude": -83.04959101098768,
+            "name": "US Department of State",
+            "latitude": 42.32908958396006,
+            "check_ins": 8
+          },
+          {
+            "longitude": -83.05505443754241,
+            "name": "AFSCME LOCAL 25",
+            "latitude": 42.329303142360125,
+            "check_ins": 149
+          },
+          {
+            "longitude": -83.05572029439803,
+            "name": "MRJ Consulting",
+            "latitude": 42.33015427214265,
+            "check_ins": 25
+          },
+          {
+            "longitude": -83.05020973274736,
+            "name": "Crystal Ballroom",
+            "latitude": 42.33060769040349,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.05025692315124,
+            "name": "Avanti Press-Detroit",
+            "latitude": 42.32865322310704,
+            "check_ins": 553
+          },
+          {
+            "longitude": -83.0521326,
+            "name": "Detroit MiWorks - South",
+            "latitude": 42.3289187,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.053759932518,
+            "name": "Fort Street Presbyterian Church",
+            "latitude": 42.32761323451996,
+            "check_ins": 268
+          },
+          {
+            "longitude": -83.04794455355714,
+            "name": "Aisin Drive Green Experience",
+            "latitude": 42.32620962824312,
+            "check_ins": 13
+          },
+          {
+            "longitude": -83.05659722222222,
+            "name": "Performax",
+            "latitude": 42.32729166666667,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.055678,
+            "name": "Wintex",
+            "latitude": 42.322697,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.0528815,
+            "name": "BEI Associates, Inc.",
+            "latitude": 42.3284374,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.04842171584203,
+            "name": "Foreman Bros. Inc.",
+            "latitude": 42.32806681906185,
+            "check_ins": 3226
+          },
+          {
+            "longitude": -83.0550596805361,
+            "name": "Michigan Forward",
+            "latitude": 42.3291086337718,
+            "check_ins": 48
+          },
+          {
+            "longitude": -83.05415263640695,
+            "name": "Detroit Free Press",
+            "latitude": 42.328586575523026,
+            "check_ins": 3207
+          },
+          {
+            "longitude": -83.05170407910059,
+            "name": "Comerica Bank",
+            "latitude": 42.33002904329738,
+            "check_ins": 1435
+          },
+          {
+            "longitude": -83.04960149784564,
+            "name": "West Fort Street Building",
+            "latitude": 42.329469083830794,
+            "check_ins": 1453
+          },
+          {
+            "longitude": -83.0535024930339,
+            "name": "WDIV Local 4 News",
+            "latitude": 42.32959643929145,
+            "check_ins": 1249
+          },
+          {
+            "longitude": -83.05292040109634,
+            "name": "DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby",
+            "latitude": 42.32917333545208,
+            "check_ins": 6983
+          }
+        ]
+      }
+    },
+    "124": {
+      "location": {
+        "longitude": -83.047012,
+        "latitude": 42.337933
+      },
+      "categories": {
+        "nightlife": [
+          {
+            "longitude": -83.04652353329087,
+            "name": "The Skip",
+            "latitude": 42.334647700352164,
+            "check_ins": 241
+          },
+          {
+            "longitude": -83.04668084331783,
+            "name": "Elwood Bar & Grill",
+            "latitude": 42.33872708319815,
+            "check_ins": 3719
+          },
+          {
+            "longitude": -83.05195051190532,
+            "name": "The Fillmore Detroit",
+            "latitude": 42.33758905638648,
+            "check_ins": 15311
+          },
+          {
+            "longitude": -83.04949522018433,
+            "name": "Tiger Club",
+            "latitude": 42.338244963350846,
+            "check_ins": 1712
+          },
+          {
+            "longitude": -83.04619842471024,
+            "name": "Punch Bowl Social",
+            "latitude": 42.33501780502067,
+            "check_ins": 2754
+          },
+          {
+            "longitude": -83.05260121822357,
+            "name": "Hockeytown Cafe",
+            "latitude": 42.33899439673061,
+            "check_ins": 11177
+          },
+          {
+            "longitude": -83.04151039020242,
+            "name": "Detroiter Bar/Malaka's",
+            "latitude": 42.33318040099984,
+            "check_ins": 3469
+          },
+          {
+            "longitude": -83.04620891210888,
+            "name": "La Casa De La Habana Cigar Bar",
+            "latitude": 42.33676782563287,
+            "check_ins": 2678
+          },
+          {
+            "longitude": -83.04775578510466,
+            "name": "Queen's",
+            "latitude": 42.33474003977068,
+            "check_ins": 186
+          },
+          {
+            "longitude": -83.0472786179909,
+            "name": "Vertical Detroit",
+            "latitude": 42.33632462576732,
+            "check_ins": 170
+          },
+          {
+            "longitude": -83.05238,
+            "name": "Rusted Crow Detroit",
+            "latitude": 42.336475,
+            "check_ins": 115
+          },
+          {
+            "longitude": -83.04536991493714,
+            "name": "Centre Park Bar",
+            "latitude": 42.335362705502654,
+            "check_ins": 273
+          },
+          {
+            "longitude": -83.04983220829787,
+            "name": "Cheli's Chili Bar",
+            "latitude": 42.33764106655112,
+            "check_ins": 7906
+          },
+          {
+            "longitude": -83.04195613491521,
+            "name": "Level Two Bar & Rooftop",
+            "latitude": 42.335310412822444,
+            "check_ins": 1467
+          },
+          {
+            "longitude": -83.04371810800092,
+            "name": "The Old Shillelagh",
+            "latitude": 42.33456921120238,
+            "check_ins": 12548
+          },
+          {
+            "longitude": -83.04503955686609,
+            "name": "The Well Bar",
+            "latitude": 42.33443348430577,
+            "check_ins": 4700
+          },
+          {
+            "longitude": -83.04922396990607,
+            "name": "Cornerstone Barrel House",
+            "latitude": 42.3349864526831,
+            "check_ins": 1008
+          },
+          {
+            "longitude": -83.05016254230964,
+            "name": "Downtown Louie's",
+            "latitude": 42.334473964329995,
+            "check_ins": 871
+          },
+          {
+            "longitude": -83.04887265723872,
+            "name": "Detroit Beer Company",
+            "latitude": 42.33603540302849,
+            "check_ins": 15650
+          },
+          {
+            "longitude": -83.04331432666741,
+            "name": "Firebird Tavern",
+            "latitude": 42.33472045352259,
+            "check_ins": 2142
+          },
+          {
+            "longitude": -83.0513213199351,
+            "name": "R.U.B BBQ Pub",
+            "latitude": 42.336848154407875,
+            "check_ins": 5768
+          },
+          {
+            "longitude": -83.04994231981942,
+            "name": "Cafe d'Mongo's",
+            "latitude": 42.334321510651314,
+            "check_ins": 3248
+          },
+          {
+            "longitude": -83.04204528349563,
+            "name": "Loco's Bar & Grill",
+            "latitude": 42.33390936187725,
+            "check_ins": 3838
+          },
+          {
+            "longitude": -83.04217638412987,
+            "name": "Exodos Lounge",
+            "latitude": 42.33523957441603,
+            "check_ins": 1242
+          },
+          {
+            "longitude": -83.04224789142609,
+            "name": "Pappy's Bar & Grill",
+            "latitude": 42.33512817634233,
+            "check_ins": 2789
+          },
+          {
+            "longitude": -83.04366646666666,
+            "name": "Harbor House",
+            "latitude": 42.336168799999996,
+            "check_ins": 1518
+          },
+          {
+            "longitude": -83.05273532867432,
+            "name": "Cliff Bell's",
+            "latitude": 42.33680158500915,
+            "check_ins": 6700
+          },
+          {
+            "longitude": -83.05276215076447,
+            "name": "The Park Bar",
+            "latitude": 42.336940372827776,
+            "check_ins": 5952
+          },
+          {
+            "longitude": -83.04294725057866,
+            "name": "Atheneum Suite Hotel",
+            "latitude": 42.33401708080596,
+            "check_ins": 3624
+          },
+          {
+            "longitude": -83.04291578681867,
+            "name": "Bouzouki",
+            "latitude": 42.33363939323706,
+            "check_ins": 1561
+          }
+        ],
+        "food": [
+          {
+            "longitude": -83.04668084331783,
+            "name": "Elwood Bar & Grill",
+            "latitude": 42.33872708319815,
+            "check_ins": 3719
+          },
+          {
+            "longitude": -83.04157856311869,
+            "name": "Pizza Papalis Taverna",
+            "latitude": 42.335431985657685,
+            "check_ins": 7042
+          },
+          {
+            "longitude": -83.04582612097596,
+            "name": "The Standby",
+            "latitude": 42.33441555658652,
+            "check_ins": 617
+          },
+          {
+            "longitude": -83.04177259334013,
+            "name": "Astoria Pastry Shop",
+            "latitude": 42.335209601480074,
+            "check_ins": 6023
+          },
+          {
+            "longitude": -83.05260121822357,
+            "name": "Hockeytown Cafe",
+            "latitude": 42.33899439673061,
+            "check_ins": 11177
+          },
+          {
+            "longitude": -83.0447354162236,
+            "name": "Buffalo Wild Wings",
+            "latitude": 42.334236067332505,
+            "check_ins": 6019
+          },
+          {
+            "longitude": -83.04619842471024,
+            "name": "Punch Bowl Social",
+            "latitude": 42.33501780502067,
+            "check_ins": 2754
+          },
+          {
+            "longitude": -83.04151039020242,
+            "name": "Detroiter Bar/Malaka's",
+            "latitude": 42.33318040099984,
+            "check_ins": 3469
+          },
+          {
+            "longitude": -83.04675425453506,
+            "name": "jose's tacos",
+            "latitude": 42.33579228017809,
+            "check_ins": 255
+          },
+          {
+            "longitude": -83.04983220829787,
+            "name": "Cheli's Chili Bar",
+            "latitude": 42.33764106655112,
+            "check_ins": 7906
+          },
+          {
+            "longitude": -83.04371810800092,
+            "name": "The Old Shillelagh",
+            "latitude": 42.33456921120238,
+            "check_ins": 12548
+          },
+          {
+            "longitude": -83.04522,
+            "name": "Orchid Thai",
+            "latitude": 42.333616,
+            "check_ins": 1416
+          },
+          {
+            "longitude": -83.04887265723872,
+            "name": "Detroit Beer Company",
+            "latitude": 42.33603540302849,
+            "check_ins": 15650
+          },
+          {
+            "longitude": -83.049322,
+            "name": "Ashe Supply Co. Caf\u00e9 & Roasterie",
+            "latitude": 42.336128,
+            "check_ins": 429
+          },
+          {
+            "longitude": -83.05273532867432,
+            "name": "Cliff Bell's",
+            "latitude": 42.33680158500915,
+            "check_ins": 6700
+          },
+          {
+            "longitude": -83.04926591756188,
+            "name": "Wright & Co.",
+            "latitude": 42.33501802778794,
+            "check_ins": 1911
+          },
+          {
+            "longitude": -83.04224789142609,
+            "name": "Pappy's Bar & Grill",
+            "latitude": 42.33512817634233,
+            "check_ins": 2789
+          },
+          {
+            "longitude": -83.04317593574524,
+            "name": "Fishbone's Rhythm Kitchen Cafe",
+            "latitude": 42.33432714506075,
+            "check_ins": 10613
+          },
+          {
+            "longitude": -83.04331432666741,
+            "name": "Firebird Tavern",
+            "latitude": 42.33472045352259,
+            "check_ins": 2142
+          },
+          {
+            "longitude": -83.04366646666666,
+            "name": "Harbor House",
+            "latitude": 42.336168799999996,
+            "check_ins": 1518
+          },
+          {
+            "longitude": -83.04722093821528,
+            "name": "Vicente's Cuban Cuisine",
+            "latitude": 42.3342711737235,
+            "check_ins": 3785
+          },
+          {
+            "longitude": -83.04834830648495,
+            "name": "The Hudson Cafe",
+            "latitude": 42.333535688876935,
+            "check_ins": 6100
+          },
+          {
+            "longitude": -83.04204528349563,
+            "name": "Loco's Bar & Grill",
+            "latitude": 42.33390936187725,
+            "check_ins": 3838
+          },
+          {
+            "longitude": -83.04654975165481,
+            "name": "7 Greens",
+            "latitude": 42.33411238556305,
+            "check_ins": 372
+          },
+          {
+            "longitude": -83.04962247155655,
+            "name": "Urban Bean Coffee",
+            "latitude": 42.3337878985443,
+            "check_ins": 1018
+          },
+          {
+            "longitude": -83.04167820033085,
+            "name": "Pegasus Taverna",
+            "latitude": 42.33522397431423,
+            "check_ins": 6031
+          },
+          {
+            "longitude": -83.042416,
+            "name": "Santorini Estiatorio Detroit",
+            "latitude": 42.335034,
+            "check_ins": 1391
+          },
+          {
+            "longitude": -83.04994231981942,
+            "name": "Cafe d'Mongo's",
+            "latitude": 42.334321510651314,
+            "check_ins": 3248
+          },
+          {
+            "longitude": -83.0513213199351,
+            "name": "R.U.B BBQ Pub",
+            "latitude": 42.336848154407875,
+            "check_ins": 5768
+          },
+          {
+            "longitude": -83.05016254230964,
+            "name": "Downtown Louie's",
+            "latitude": 42.334473964329995,
+            "check_ins": 871
+          }
+        ],
+        "college": [
+          {
+            "longitude": -83.046383,
+            "name": "Lions Locker Room",
+            "latitude": 42.33894836666666,
+            "check_ins": 126
+          },
+          {
+            "longitude": -83.04795504067752,
+            "name": "Grand Valley State University - Detroit",
+            "latitude": 42.33737117184094,
+            "check_ins": 79
+          },
+          {
+            "longitude": -83.04600965124902,
+            "name": "Detroit Athletic Club University",
+            "latitude": 42.33701381436167,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.04568481445312,
+            "name": "Detroit Training Center",
+            "latitude": 42.33476638793945,
+            "check_ins": 15
+          },
+          {
+            "longitude": -83.045673,
+            "name": "Bodman Training Room",
+            "latitude": 42.338926,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.051388,
+            "name": "study city",
+            "latitude": 42.339322,
+            "check_ins": 3
+          }
+        ],
+        "work": [
+          {
+            "longitude": -83.05178272796836,
+            "name": "Fox Office",
+            "latitude": 42.3387004099476,
+            "check_ins": 2999
+          },
+          {
+            "longitude": -83.04539613376066,
+            "name": "36th District Court",
+            "latitude": 42.337376460408635,
+            "check_ins": 2556
+          },
+          {
+            "longitude": -83.04221833627771,
+            "name": "Frank Murphy Hall of Justice",
+            "latitude": 42.33692885342871,
+            "check_ins": 2436
+          },
+          {
+            "longitude": -83.04132160329671,
+            "name": "Wayne County Juvenile Detention Facility",
+            "latitude": 42.33670644262623,
+            "check_ins": 2046
+          },
+          {
+            "longitude": -83.05348152056004,
+            "name": "Fox Parking Garage",
+            "latitude": 42.33852669245976,
+            "check_ins": 3299
+          },
+          {
+            "longitude": -83.05218121411987,
+            "name": "Fox Theatre",
+            "latitude": 42.33857952985405,
+            "check_ins": 12470
+          },
+          {
+            "longitude": -83.0458995331466,
+            "name": "Campbell Ewald",
+            "latitude": 42.33904929962598,
+            "check_ins": 2387
+          },
+          {
+            "longitude": -83.04340871733083,
+            "name": "Ford Field Parking Deck",
+            "latitude": 42.33978183383167,
+            "check_ins": 1813
+          },
+          {
+            "longitude": -83.0472786179909,
+            "name": "Vertical Detroit",
+            "latitude": 42.33632462576732,
+            "check_ins": 170
+          },
+          {
+            "longitude": -83.051547,
+            "name": "Open Systems Technologies (OST)",
+            "latitude": 42.336816,
+            "check_ins": 8
+          },
+          {
+            "longitude": -83.04931835209405,
+            "name": "Media Lot",
+            "latitude": 42.34027794661684,
+            "check_ins": 356
+          },
+          {
+            "longitude": -83.04587331452363,
+            "name": "Jack Morton Worldwide",
+            "latitude": 42.33902761325364,
+            "check_ins": 200
+          },
+          {
+            "longitude": -83.04667559965631,
+            "name": "One Campus Martius",
+            "latitude": 42.33250329213254,
+            "check_ins": 212
+          },
+          {
+            "longitude": -83.05164115993867,
+            "name": "Commonwealth//McCann",
+            "latitude": 42.337666636455374,
+            "check_ins": 527
+          },
+          {
+            "longitude": -83.05059774172969,
+            "name": "David Whitney Building",
+            "latitude": 42.335879768694554,
+            "check_ins": 222
+          },
+          {
+            "longitude": -83.04926,
+            "name": "Ernie Harwell Media Center",
+            "latitude": 42.339825,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.04572124630442,
+            "name": "On The Field @ Ford Field",
+            "latitude": 42.33983664931378,
+            "check_ins": 98
+          },
+          {
+            "longitude": -83.04444176185599,
+            "name": "Park Rite",
+            "latitude": 42.33724397474269,
+            "check_ins": 22
+          },
+          {
+            "longitude": -83.0469063203674,
+            "name": "Z-Lot",
+            "latitude": 42.33472143501486,
+            "check_ins": 1076
+          },
+          {
+            "longitude": -83.0478973614948,
+            "name": "Opera House Parking Center",
+            "latitude": 42.336010682904465,
+            "check_ins": 3862
+          },
+          {
+            "longitude": -83.04889363118195,
+            "name": "Tigers Parking Garage",
+            "latitude": 42.34053833404299,
+            "check_ins": 603
+          },
+          {
+            "longitude": -83.05173029540029,
+            "name": "Palms Building",
+            "latitude": 42.33774768837438,
+            "check_ins": 1637
+          },
+          {
+            "longitude": -83.05033557374912,
+            "name": "Broderick Tower",
+            "latitude": 42.33615443946605,
+            "check_ins": 3683
+          },
+          {
+            "longitude": -83.04501593112946,
+            "name": "Hilton Garden Inn",
+            "latitude": 42.335857819719365,
+            "check_ins": 4676
+          },
+          {
+            "longitude": -83.04624037429477,
+            "name": "Compuware Parking Garage",
+            "latitude": 42.33325013152354,
+            "check_ins": 4315
+          },
+          {
+            "longitude": -83.04934501647949,
+            "name": "Detroit Venture Partners",
+            "latitude": 42.336056090913424,
+            "check_ins": 463
+          }
+        ]
+      }
+    },
+    "133": {
+      "location": {
+        "longitude": -83.2445063,
+        "latitude": 42.3073777
+      },
+      "categories": {
+        "nightlife": [
+          {
+            "longitude": -83.24355840682983,
+            "name": "Dearborn Brewing",
+            "latitude": 42.306514725385874,
+            "check_ins": 236
+          },
+          {
+            "longitude": -83.24925810098648,
+            "name": "Bar Louie",
+            "latitude": 42.30473140783535,
+            "check_ins": 54
+          },
+          {
+            "longitude": -83.24320107237043,
+            "name": "Nar Bar",
+            "latitude": 42.30667371424036,
+            "check_ins": 225
+          },
+          {
+            "longitude": -83.24773872651241,
+            "name": "Beirgarten",
+            "latitude": 42.305557501422705,
+            "check_ins": 158
+          },
+          {
+            "longitude": -83.24455445,
+            "name": "Parisian Bistro BoroBora Ultra Lounge",
+            "latitude": 42.30592155,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.24551598333333,
+            "name": "The Bar",
+            "latitude": 42.30518023333333,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.24823533984726,
+            "name": "B-dubs",
+            "latitude": 42.30563093508587,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.24320107237043,
+            "name": "Liv Lounge",
+            "latitude": 42.30617757323883,
+            "check_ins": 17
+          },
+          {
+            "longitude": -83.24872149447205,
+            "name": "Red Martini",
+            "latitude": 42.304832018846845,
+            "check_ins": 16
+          },
+          {
+            "longitude": -83.248742,
+            "name": "Double Olive",
+            "latitude": 42.304864,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.24470146096593,
+            "name": "Cigaro",
+            "latitude": 42.30559012048172,
+            "check_ins": 37
+          },
+          {
+            "longitude": -83.24580272,
+            "name": "Bailey's",
+            "latitude": 42.30552012,
+            "check_ins": 5639
+          },
+          {
+            "longitude": -83.24519809761199,
+            "name": "Post Bar",
+            "latitude": 42.305709305416066,
+            "check_ins": 2384
+          },
+          {
+            "longitude": -83.24872149447205,
+            "name": "Moose's Martini Pub",
+            "latitude": 42.30510500019462,
+            "check_ins": 1660
+          },
+          {
+            "longitude": -83.248809,
+            "name": "Le Cigar",
+            "latitude": 42.30471396,
+            "check_ins": 490
+          }
+        ],
+        "food": [
+          {
+            "longitude": -83.24529742448385,
+            "name": "Brome Burgers & Shakes",
+            "latitude": 42.30609966024857,
+            "check_ins": 249
+          },
+          {
+            "longitude": -83.2452608303909,
+            "name": "Kabuki Sushi",
+            "latitude": 42.30618792354987,
+            "check_ins": 1570
+          },
+          {
+            "longitude": -83.24925810098648,
+            "name": "Bar Louie",
+            "latitude": 42.30473140783535,
+            "check_ins": 54
+          },
+          {
+            "longitude": -83.24445052731646,
+            "name": "Downtown Deli",
+            "latitude": 42.30609360834016,
+            "check_ins": 20
+          },
+          {
+            "longitude": -83.24487397728554,
+            "name": "Rio Wraps",
+            "latitude": 42.306415495136484,
+            "check_ins": 387
+          },
+          {
+            "longitude": -83.24342587148331,
+            "name": "L.A. Bistro",
+            "latitude": 42.30656876980717,
+            "check_ins": 1119
+          },
+          {
+            "longitude": -83.24664093614066,
+            "name": "bd Mongolian",
+            "latitude": 42.303181951771926,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.244113,
+            "name": "Stadium",
+            "latitude": 42.305554,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.245499,
+            "name": "Bellacino's Pizza and Grinders",
+            "latitude": 42.305801,
+            "check_ins": 10
+          },
+          {
+            "longitude": -83.24815169997359,
+            "name": "Famous Hamburger",
+            "latitude": 42.305167204206214,
+            "check_ins": 102
+          },
+          {
+            "longitude": -83.2447,
+            "name": "La Shish West",
+            "latitude": 42.306069,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.24361930265314,
+            "name": "Al-Ajami West Restaurant",
+            "latitude": 42.306188261342946,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.248512,
+            "name": "Lue Thai Caf\u00e9",
+            "latitude": 42.305113,
+            "check_ins": 129
+          },
+          {
+            "longitude": -83.24762894831342,
+            "name": "Los Galanes",
+            "latitude": 42.30579954378077,
+            "check_ins": 25
+          },
+          {
+            "longitude": -83.24778577425496,
+            "name": "Los Galanes Tacqueria",
+            "latitude": 42.30537072669051,
+            "check_ins": 11
+          },
+          {
+            "longitude": -83.24511445381219,
+            "name": "Dearborn Food Truck Rally",
+            "latitude": 42.30546143209739,
+            "check_ins": 43
+          },
+          {
+            "longitude": -83.24923378248909,
+            "name": "Osteria 222",
+            "latitude": 42.3050460418917,
+            "check_ins": 258
+          },
+          {
+            "longitude": -83.24757,
+            "name": "La Fork Poutine & Cr\u00eapes",
+            "latitude": 42.30474,
+            "check_ins": 20
+          },
+          {
+            "longitude": -83.248329,
+            "name": "Cold Stone Creamery",
+            "latitude": 42.305227,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.24504126539868,
+            "name": "Yogurtown",
+            "latitude": 42.305769571104385,
+            "check_ins": 614
+          },
+          {
+            "longitude": -83.24223697884008,
+            "name": "Westborn Flower Market",
+            "latitude": 42.30634451301402,
+            "check_ins": 4207
+          },
+          {
+            "longitude": -83.246951,
+            "name": "Starbucks",
+            "latitude": 42.30518,
+            "check_ins": 5752
+          },
+          {
+            "longitude": -83.24823533984726,
+            "name": "Buffalo Wild Wings",
+            "latitude": 42.30535582819231,
+            "check_ins": 5627
+          },
+          {
+            "longitude": -83.24580272,
+            "name": "Bailey's",
+            "latitude": 42.30552012,
+            "check_ins": 5639
+          },
+          {
+            "longitude": -83.24720336666667,
+            "name": "Buddy's Pizza",
+            "latitude": 42.305739260685705,
+            "check_ins": 5600
+          },
+          {
+            "longitude": -83.24821442988898,
+            "name": "Panera Cares - A Community Cafe",
+            "latitude": 42.30561628782913,
+            "check_ins": 2546
+          },
+          {
+            "longitude": -83.23796773751292,
+            "name": "Joe Vicari's Andiamo Italian Steakhouse",
+            "latitude": 42.30800519263985,
+            "check_ins": 1461
+          },
+          {
+            "longitude": -83.24647933244705,
+            "name": "bd's Mongolian Grill",
+            "latitude": 42.30528088926159,
+            "check_ins": 5042
+          },
+          {
+            "longitude": -83.248747631714,
+            "name": "iBurger Lounge",
+            "latitude": 42.30450405912192,
+            "check_ins": 305
+          },
+          {
+            "longitude": -83.24717402458191,
+            "name": "Jimmy John's",
+            "latitude": 42.30509442317802,
+            "check_ins": 1006
+          }
+        ],
+        "college": [
+          {
+            "longitude": -83.244267,
+            "name": "T-197",
+            "latitude": 42.306202,
+            "check_ins": 2
+          }
+        ],
+        "work": [
+          {
+            "longitude": -83.24406145,
+            "name": "Valley of Detroit Scottish Rite Center",
+            "latitude": 42.307172533333336,
+            "check_ins": 497
+          },
+          {
+            "longitude": -83.24332456,
+            "name": "Farmers Insurance",
+            "latitude": 42.30777651,
+            "check_ins": 0
+          },
+          {
+            "longitude": -83.2433997320917,
+            "name": "St Paul Lutheran Church",
+            "latitude": 42.30686907646464,
+            "check_ins": 22
+          },
+          {
+            "longitude": -83.24256326598612,
+            "name": "Querfeld Funeral Home",
+            "latitude": 42.30403891340743,
+            "check_ins": 58
+          },
+          {
+            "longitude": -83.24663048090473,
+            "name": "Bryant Branch Library",
+            "latitude": 42.30592372058741,
+            "check_ins": 181
+          },
+          {
+            "longitude": -83.24821442988898,
+            "name": "Dr. Colins And Dr. Mikula Chiropractic Facility",
+            "latitude": 42.30662677502325,
+            "check_ins": 30
+          },
+          {
+            "longitude": -83.24799487491903,
+            "name": "East Parking Deck",
+            "latitude": 42.30458696071693,
+            "check_ins": 166
+          },
+          {
+            "longitude": -83.2467873092664,
+            "name": "Dearborn Chamber Of Commerce",
+            "latitude": 42.305990625441275,
+            "check_ins": 101
+          },
+          {
+            "longitude": -83.244726,
+            "name": "Executive Health",
+            "latitude": 42.303639,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.24348236666667,
+            "name": "Dearborn Cadiology",
+            "latitude": 42.302767616666664,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.24121444162226,
+            "name": "power operations engineering engines",
+            "latitude": 42.304245717083695,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.24367158124845,
+            "name": "UAW HALL",
+            "latitude": 42.30374410669756,
+            "check_ins": 4
+          },
+          {
+            "longitude": -83.24598748064786,
+            "name": "Comerica",
+            "latitude": 42.3051104330464,
+            "check_ins": 85
+          },
+          {
+            "longitude": -83.242829,
+            "name": "Dearborn Dental & Associates",
+            "latitude": 42.303315,
+            "check_ins": 42
+          },
+          {
+            "longitude": -83.24705391660886,
+            "name": "Scottrade",
+            "latitude": 42.30553352202633,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.24800010242699,
+            "name": "All Brite Dental",
+            "latitude": 42.30680091419308,
+            "check_ins": 29
+          },
+          {
+            "longitude": -83.24188885731743,
+            "name": "Brady Apartments",
+            "latitude": 42.31046175110064,
+            "check_ins": 53
+          },
+          {
+            "longitude": -83.249068,
+            "name": "Performance Driven",
+            "latitude": 42.306473,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.24793243408203,
+            "name": "22190 garrison suite 301",
+            "latitude": 42.30666732788086,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.24705391660886,
+            "name": "Michigan Hand Associates",
+            "latitude": 42.30553352202633,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.24936446755827,
+            "name": "Fidelity Bank Operations Center",
+            "latitude": 42.30521472479764,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.244653,
+            "name": "Dr. Dickieson",
+            "latitude": 42.30378,
+            "check_ins": 5
+          },
+          {
+            "longitude": -83.24424,
+            "name": "Trillium family dentistry",
+            "latitude": 42.31017,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.24732052285279,
+            "name": "First United Methidist Church",
+            "latitude": 42.30704068846783,
+            "check_ins": 116
+          },
+          {
+            "longitude": -83.24572609660301,
+            "name": "West Village Obgyn",
+            "latitude": 42.306323134799726,
+            "check_ins": 46
+          },
+          {
+            "longitude": -83.24800010242699,
+            "name": "team mental health services",
+            "latitude": 42.306312436389355,
+            "check_ins": 10
+          },
+          {
+            "longitude": -83.248266704772,
+            "name": "Garrison Square Professional Center",
+            "latitude": 42.306823150922526,
+            "check_ins": 9
+          },
+          {
+            "longitude": -83.2438754673667,
+            "name": "UAW 245",
+            "latitude": 42.30408796236334,
+            "check_ins": 10
+          },
+          {
+            "longitude": -83.24262077337693,
+            "name": "DaVita Dearborn",
+            "latitude": 42.30463608560006,
+            "check_ins": 70
+          },
+          {
+            "longitude": -83.250287,
+            "name": "KMS Photography",
+            "latitude": 42.306135,
+            "check_ins": 2
+          }
+        ]
+      }
+    },
+    "10": {
+      "location": {
+        "longitude": -83.0501601,
+        "latitude": 42.3285765
+      },
+      "categories": {
+        "nightlife": [
+          {
+            "longitude": -83.05088612530166,
+            "name": "Cobo Joe's",
+            "latitude": 42.32826161170011,
+            "check_ins": 1474
+          },
+          {
+            "longitude": -83.05155848333334,
+            "name": "The Anchor Bar",
+            "latitude": 42.329284,
+            "check_ins": 5638
+          },
+          {
+            "longitude": -83.07288868317568,
+            "name": "Motor City Wine",
+            "latitude": 42.33119678468325,
+            "check_ins": 2463
+          },
+          {
+            "longitude": -83.05050336137704,
+            "name": "The Westin Book Cadillac Detroit",
+            "latitude": 42.33190897783369,
+            "check_ins": 15825
+          },
+          {
+            "longitude": -83.04759323405888,
+            "name": "London Chop House",
+            "latitude": 42.32941167958362,
+            "check_ins": 1337
+          },
+          {
+            "longitude": -83.04814380855841,
+            "name": "Drive - Table Tennis & Social Club",
+            "latitude": 42.33046793687358,
+            "check_ins": 95
+          },
+          {
+            "longitude": -83.0442949341809,
+            "name": "Richard E. Durant Bar Stool",
+            "latitude": 42.33126792123219,
+            "check_ins": 50
+          },
+          {
+            "longitude": -83.047979,
+            "name": "Climax Nightclub",
+            "latitude": 42.329439,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.04672181606293,
+            "name": "Buhl Bar",
+            "latitude": 42.329734897555795,
+            "check_ins": 263
+          },
+          {
+            "longitude": -83.04613550028334,
+            "name": "The Whiskey Parlor",
+            "latitude": 42.33042737775734,
+            "check_ins": 266
+          },
+          {
+            "longitude": -83.050799,
+            "name": "Venitian Ballroom",
+            "latitude": 42.331931,
+            "check_ins": 7
+          },
+          {
+            "longitude": -83.04755128533674,
+            "name": "150 Cafe",
+            "latitude": 42.32870438582905,
+            "check_ins": 164
+          },
+          {
+            "longitude": -83.04556,
+            "name": "Parktoberfest",
+            "latitude": 42.331535,
+            "check_ins": 5
+          },
+          {
+            "longitude": -83.04742019540764,
+            "name": "London Chop House Cigar Bar",
+            "latitude": 42.32920528118992,
+            "check_ins": 218
+          },
+          {
+            "longitude": -83.04658645734678,
+            "name": "The Beach Bar",
+            "latitude": 42.33139240991084,
+            "check_ins": 264
+          },
+          {
+            "longitude": -83.044465,
+            "name": "Cadillac Food Plaza",
+            "latitude": 42.331867,
+            "check_ins": 32
+          },
+          {
+            "longitude": -83.04952,
+            "name": "whoops",
+            "latitude": 42.332674,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.04589033126831,
+            "name": "World Of Bogner",
+            "latitude": 42.328473755364314,
+            "check_ins": 113
+          },
+          {
+            "longitude": -83.04761945199665,
+            "name": "Urban Cellars",
+            "latitude": 42.32794662380864,
+            "check_ins": 39
+          },
+          {
+            "longitude": -83.04522514343262,
+            "name": "Detroit Princess",
+            "latitude": 42.32593553090683,
+            "check_ins": 1154
+          },
+          {
+            "longitude": -83.05079340934753,
+            "name": "Big City Bar & Grill",
+            "latitude": 42.33096428856115,
+            "check_ins": 1742
+          },
+          {
+            "longitude": -83.05039849415974,
+            "name": "The Motor Bar",
+            "latitude": 42.331594410160314,
+            "check_ins": 1241
+          },
+          {
+            "longitude": -83.0522096157074,
+            "name": "Olympia Club",
+            "latitude": 42.32538821283585,
+            "check_ins": 1002
+          },
+          {
+            "longitude": -83.04936554313726,
+            "name": "The Bathtub Pub",
+            "latitude": 42.331515826160334,
+            "check_ins": 603
+          },
+          {
+            "longitude": -83.05296244970077,
+            "name": "Round Bar",
+            "latitude": 42.329428016671784,
+            "check_ins": 1048
+          },
+          {
+            "longitude": -83.05077601535973,
+            "name": "Roast",
+            "latitude": 42.33202475701407,
+            "check_ins": 6796
+          },
+          {
+            "longitude": -83.04635971784592,
+            "name": "Hard Rock Cafe Detroit",
+            "latitude": 42.33231460808727,
+            "check_ins": 9164
+          },
+          {
+            "longitude": -83.05011535183809,
+            "name": "24 Grille",
+            "latitude": 42.331621939265304,
+            "check_ins": 3687
+          },
+          {
+            "longitude": -83.05376989148958,
+            "name": "Tommy's Detroit Bar & Grill",
+            "latitude": 42.32720121329311,
+            "check_ins": 1477
+          },
+          {
+            "longitude": -83.0457615852356,
+            "name": "Grand Trunk Pub",
+            "latitude": 42.33055185038616,
+            "check_ins": 12965
+          }
+        ],
+        "food": [
+          {
+            "longitude": -83.05050336137704,
+            "name": "The Westin Book Cadillac Detroit",
+            "latitude": 42.33190897783369,
+            "check_ins": 15825
+          },
+          {
+            "longitude": -83.0470189,
+            "name": "Texas de Brazil - Detroit",
+            "latitude": 42.3323961,
+            "check_ins": 3320
+          },
+          {
+            "longitude": -83.04759323405888,
+            "name": "London Chop House",
+            "latitude": 42.32941167958362,
+            "check_ins": 1337
+          },
+          {
+            "longitude": -83.0471842328772,
+            "name": "Which Wich Superior Sandwiches",
+            "latitude": 42.33033440085201,
+            "check_ins": 202
+          },
+          {
+            "longitude": -83.0472207069397,
+            "name": "Calexico - Detroit",
+            "latitude": 42.332804364393,
+            "check_ins": 120
+          },
+          {
+            "longitude": -83.04649731491648,
+            "name": "The Fountain Detroit",
+            "latitude": 42.33141600899818,
+            "check_ins": 66
+          },
+          {
+            "longitude": -83.04804942468566,
+            "name": "Bon Bon Bon",
+            "latitude": 42.33044786215829,
+            "check_ins": 128
+          },
+          {
+            "longitude": -83.04759323405888,
+            "name": "Freshii",
+            "latitude": 42.331627039906756,
+            "check_ins": 175
+          },
+          {
+            "longitude": -83.04914531797931,
+            "name": "Dessert Oasis Coffee",
+            "latitude": 42.332892751280816,
+            "check_ins": 292
+          },
+          {
+            "longitude": -83.04730483605401,
+            "name": "Detroit Water Ice Factory",
+            "latitude": 42.33265312139813,
+            "check_ins": 289
+          },
+          {
+            "longitude": -83.04678047280707,
+            "name": "Jimmy John's",
+            "latitude": 42.32999754161835,
+            "check_ins": 1576
+          },
+          {
+            "longitude": -83.05079340934753,
+            "name": "Big City Bar & Grill",
+            "latitude": 42.33096428856115,
+            "check_ins": 1742
+          },
+          {
+            "longitude": -83.04683815296876,
+            "name": "Starbucks",
+            "latitude": 42.33151450222883,
+            "check_ins": 1662
+          },
+          {
+            "longitude": -83.0457615852356,
+            "name": "Grand Trunk Pub",
+            "latitude": 42.33055185038616,
+            "check_ins": 12965
+          },
+          {
+            "longitude": -83.04604635724223,
+            "name": "Roasting Plant",
+            "latitude": 42.33148561085084,
+            "check_ins": 3398
+          },
+          {
+            "longitude": -83.04764042633934,
+            "name": "Dime Store",
+            "latitude": 42.33097398602006,
+            "check_ins": 1314
+          },
+          {
+            "longitude": -83.04843744640789,
+            "name": "American Coney Island",
+            "latitude": 42.33158495805795,
+            "check_ins": 7247
+          },
+          {
+            "longitude": -83.04614074398788,
+            "name": "Bangkok Crossing",
+            "latitude": 42.330549264383365,
+            "check_ins": 1598
+          },
+          {
+            "longitude": -83.0466628074646,
+            "name": "Quicken Loans Qube",
+            "latitude": 42.330424945788224,
+            "check_ins": 12665
+          },
+          {
+            "longitude": -83.04597818895284,
+            "name": "Woodward Coney Island",
+            "latitude": 42.330391997167624,
+            "check_ins": 691
+          },
+          {
+            "longitude": -83.04581563351633,
+            "name": "Central Kitchen + Bar",
+            "latitude": 42.33148882328382,
+            "check_ins": 652
+          },
+          {
+            "longitude": -83.04734678493328,
+            "name": "Carnival Fresh Mex",
+            "latitude": 42.33073985688322,
+            "check_ins": 370
+          },
+          {
+            "longitude": -83.04894268512726,
+            "name": "Lafayette Coney Island",
+            "latitude": 42.33143224398473,
+            "check_ins": 12018
+          },
+          {
+            "longitude": -83.05011535183809,
+            "name": "24 Grille",
+            "latitude": 42.331621939265304,
+            "check_ins": 3687
+          },
+          {
+            "longitude": -83.04635971784592,
+            "name": "Hard Rock Cafe Detroit",
+            "latitude": 42.33231460808727,
+            "check_ins": 9164
+          },
+          {
+            "longitude": -83.04499236272058,
+            "name": "Lunchtime Global",
+            "latitude": 42.33055066599405,
+            "check_ins": 1082
+          },
+          {
+            "longitude": -83.0474936058001,
+            "name": "Slices",
+            "latitude": 42.33268464656886,
+            "check_ins": 323
+          },
+          {
+            "longitude": -83.04600440753404,
+            "name": "QZine",
+            "latitude": 42.33046323497224,
+            "check_ins": 1240
+          },
+          {
+            "longitude": -83.05077601535973,
+            "name": "Roast",
+            "latitude": 42.33202475701407,
+            "check_ins": 6796
+          },
+          {
+            "longitude": -83.04559539647798,
+            "name": "Townhouse Detroit",
+            "latitude": 42.330306166048416,
+            "check_ins": 1165
+          }
+        ],
+        "college": [
+          {
+            "longitude": -83.04908763983997,
+            "name": "Mt Elliot Makerspace",
+            "latitude": 42.328826334278475,
+            "check_ins": 3
+          },
+          {
+            "longitude": -83.055652136132,
+            "name": "Wayne County Community College",
+            "latitude": 42.32658905611136,
+            "check_ins": 251
+          },
+          {
+            "longitude": -83.05626031508548,
+            "name": "Wayne County Community College District Downtown Campus Bookstore",
+            "latitude": 42.32645277875415,
+            "check_ins": 155
+          },
+          {
+            "longitude": -83.05537950236145,
+            "name": "wcccd school library",
+            "latitude": 42.32631258916646,
+            "check_ins": 4
+          },
+          {
+            "longitude": -83.05253601074219,
+            "name": "subway WCCC",
+            "latitude": 42.32886505126953,
+            "check_ins": 1
+          },
+          {
+            "longitude": -83.04738,
+            "name": "The Iron Yard - Detroit",
+            "latitude": 42.331962,
+            "check_ins": 6
+          },
+          {
+            "longitude": -83.04708862304688,
+            "name": "University of Phoenix Detroit Campus 1001 Woodward",
+            "latitude": 42.33199691772461,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.047449,
+            "name": "CMU - Detroit Campus",
+            "latitude": 42.331249,
+            "check_ins": 5
+          },
+          {
+            "longitude": -83.05534280157524,
+            "name": "visual arts class",
+            "latitude": 42.326319935712064,
+            "check_ins": 2
+          },
+          {
+            "longitude": -83.05570980851554,
+            "name": "Wayne County Community College (Downtown Campus)",
+            "latitude": 42.326594450639845,
+            "check_ins": 920
+          },
+          {
+            "longitude": -83.05431517124603,
+            "name": "Wayne County Community College District Office Building",
+            "latitude": 42.32711867133332,
+            "check_ins": 619
+          }
+        ],
+        "work": [
+          {
+            "longitude": -83.04960250854492,
+            "name": "Cobo Center",
+            "latitude": 42.32685564910629,
+            "check_ins": 21699
+          },
+          {
+            "longitude": -83.05170407910059,
+            "name": "Comerica Bank",
+            "latitude": 42.33002904329738,
+            "check_ins": 1435
+          },
+          {
+            "longitude": -83.05190332271631,
+            "name": "First Street Parking Garage",
+            "latitude": 42.32817474208524,
+            "check_ins": 1543
+          },
+          {
+            "longitude": -83.07288868317568,
+            "name": "Motor City Wine",
+            "latitude": 42.33119678468325,
+            "check_ins": 2463
+          },
+          {
+            "longitude": -83.04827489704599,
+            "name": "Federal Reserve Building",
+            "latitude": 42.33042071781019,
+            "check_ins": 452
+          },
+          {
+            "longitude": -83.04833984375,
+            "name": "AMBR Detroit",
+            "latitude": 42.32928466796875,
+            "check_ins": 61
+          },
+          {
+            "longitude": -83.04842171584203,
+            "name": "Foreman Bros. Inc.",
+            "latitude": 42.32806681906185,
+            "check_ins": 3226
+          },
+          {
+            "longitude": -83.04780297726855,
+            "name": "Quicken Loans Chrysler House",
+            "latitude": 42.330700288619006,
+            "check_ins": 1095
+          },
+          {
+            "longitude": -83.04896179645131,
+            "name": "Archdiocese of Detroit",
+            "latitude": 42.332691835673785,
+            "check_ins": 293
+          },
+          {
+            "longitude": -83.0449504123406,
+            "name": "Fleishman Hillard",
+            "latitude": 42.33026927417342,
+            "check_ins": 113
+          },
+          {
+            "longitude": -83.04668084331783,
+            "name": "Benzinga World Headquarters",
+            "latitude": 42.33238833442021,
+            "check_ins": 285
+          },
+          {
+            "longitude": -83.04864194342186,
+            "name": "Financial District Garage",
+            "latitude": 42.33075209013738,
+            "check_ins": 655
+          },
+          {
+            "longitude": -83.04643439077535,
+            "name": "Rakasa's work",
+            "latitude": 42.33288391933399,
+            "check_ins": 653
+          },
+          {
+            "longitude": -83.05321412093198,
+            "name": "McNamara Federal Building",
+            "latitude": 42.33148304719379,
+            "check_ins": 1927
+          },
+          {
+            "longitude": -83.04762840270996,
+            "name": "Penobscot Building",
+            "latitude": 42.33012354634199,
+            "check_ins": 2658
+          },
+          {
+            "longitude": -83.04491894953809,
+            "name": "iProspect",
+            "latitude": 42.32966055820124,
+            "check_ins": 1250
+          },
+          {
+            "longitude": -83.04543972015381,
+            "name": "One Woodward Avenue",
+            "latitude": 42.32887034368453,
+            "check_ins": 3039
+          },
+          {
+            "longitude": -83.05292040109634,
+            "name": "DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby",
+            "latitude": 42.32917333545208,
+            "check_ins": 6983
+          },
+          {
+            "longitude": -83.04769810574727,
+            "name": "Crowne Plaza Detroit Downtown Riverfront",
+            "latitude": 42.327890127158646,
+            "check_ins": 1763
+          },
+          {
+            "longitude": -83.04628232385254,
+            "name": "Guardian Building",
+            "latitude": 42.32961572826946,
+            "check_ins": 4273
+          },
+          {
+            "longitude": -83.04662840668395,
+            "name": "Quicken Loans Headquarters",
+            "latitude": 42.33258272338595,
+            "check_ins": 13513
+          },
+          {
+            "longitude": -83.0466628074646,
+            "name": "Quicken Loans Qube",
+            "latitude": 42.330424945788224,
+            "check_ins": 12665
+          },
+          {
+            "longitude": -83.04507101961096,
+            "name": "One Detroit Center",
+            "latitude": 42.33007019983283,
+            "check_ins": 3141
+          },
+          {
+            "longitude": -83.04794979711754,
+            "name": "Chrysler House",
+            "latitude": 42.330839310788875,
+            "check_ins": 3545
+          },
+          {
+            "longitude": -83.04580450057983,
+            "name": "First National Building",
+            "latitude": 42.3310753291462,
+            "check_ins": 5797
+          },
+          {
+            "longitude": -83.0449818751281,
+            "name": "Carat",
+            "latitude": 42.329990419581684,
+            "check_ins": 2838
+          },
+          {
+            "longitude": -83.05415263640695,
+            "name": "Detroit Free Press",
+            "latitude": 42.328586575523026,
+            "check_ins": 3207
+          },
+          {
+            "longitude": -83.04377579084637,
+            "name": "Coleman A. Young Municipal Center",
+            "latitude": 42.32976149091639,
+            "check_ins": 5022
+          },
+          {
+            "longitude": -83.04754257202148,
+            "name": "1001 Woodward",
+            "latitude": 42.33191605864348,
+            "check_ins": 1348
+          },
+          {
+            "longitude": -83.04603586981769,
+            "name": "Detroit One Parking",
+            "latitude": 42.33099427919384,
+            "check_ins": 2226
+          }
+        ]
+      }
+    }
+  }
+}

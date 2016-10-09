@@ -6,7 +6,7 @@ body {
 }
 
 #modal {
-    background-color: #fff;
+    background-color: #fffbb5;
     height: 100%;
     position: absolute;
     width: 100%;
@@ -117,8 +117,10 @@ body {
 }
 
 #ui-search-bar {
+    background: #000;
     border: 1px solid #000;
     border-radius: 0;
+    color: #fff;
     font-style: italic;
     font-weight: 700;
     padding: 10px;
@@ -128,6 +130,7 @@ body {
 
 #ui-search-bar:focus{
     background: #ffff00;
+    color: #000;
 }
 
 .sidebar-lots {
@@ -135,7 +138,12 @@ body {
 }
 
 .lot-block {
+    background: #fff;
     margin-bottom: 10px;
+}
+
+.lot-block:hover {
+    background: #ffff00;
 }
 
 .lot-block .lot-data {
@@ -154,4 +162,17 @@ body {
 
 .leaflet-popup-close-button {
     display: none;
+}
+
+.leaflet-popup-content {
+    font-family: "Lato", "Georgia", serif !important;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-style: italic;
+    margin: 8px;
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 0 !important;
 }

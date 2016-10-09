@@ -9,6 +9,11 @@ def render_index():
     return render_template("index.html")
 
 
+@app.route('/map')
+def render_map():
+    return render_template("map.html")
+
+
 @app.route('/api/lot/all')
 def api_lot_all():
     json_data = {
