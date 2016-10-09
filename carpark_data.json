@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "10",
+      "longitude": -83.0501601,
+      "spaces": 1450,
+      "private": false,
+      "latitude": 42.3285765,
+      "address": "621 Cass",
+      "name": "First Street Parking Deck"
+    },
+    {
+      "id": "124",
+      "longitude": -83.047012,
+      "spaces": 24,
+      "private": true,
+      "latitude": 42.337933,
+      "address": "241 Madison",
+      "name": "Detroit Athletic Club Valet Lot"
+    },
+    {
+      "id": "206",
+      "longitude": -83.0582774,
+      "spaces": 274,
+      "private": false,
+      "latitude": 42.3361209,
+      "address": "2201 W Grand River",
+      "name": "MGM Grand Detroit Casino Surface Lot"
+    },
+    {
+      "id": "1",
+      "longitude": -83.0542696,
+      "spaces": 3000,
+      "private": false,
+      "latitude": 42.3259106,
+      "address": "900 W Jefferson Ave",
+      "name": "Joe Louis Arena"
+    }
+  ]
+}

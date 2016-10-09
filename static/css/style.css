@@ -1,12 +1,113 @@
 html,
 body {
+    font-family: "Lato", serif;
     height: 100%;
     margin: 0;
 }
 
+#panel-left {
+    height: 100%;
+    position: absolute;
+    width: 70%;
+}
+
+#panel-right {
+    height: 100%;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    width: 30%;
+}
+
+#overlay {
+    padding: 10px 0 0 10px;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+}
+
 #map {
-    background-color: #000;
+    background-color: #b5d0d0;
     display: block;
     height: 100%;
+    top: 0;
+    left: 0;
     width: 100%;
+    z-index: 0;
+}
+
+#panel-left h1,
+#panel-left h2 {
+    background: #ffff00;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#panel-left h1 {
+    font-size: 90px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+#panel-left h2 {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+#panel-right h2 {
+    font-size: 48px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+#sidebar-content {
+    border: 1px solid #e3e3e3;
+    padding: 10px;
+    height: 100%;
+}
+
+#sidebar-lots {
+    margin-top: 10px;
+    position: relative;
+}
+
+#ui-search-bar {
+    border: 1px solid #000;
+    font-style: italic;
+    font-weight: 700;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+#ui-search-bar:focus{
+    background: #ffff00;
+}
+
+.sidebar-lots {
+    overflow: scroll;
+}
+
+.lot-block {
+    margin-bottom: 10px;
+}
+
+.lot-block .lot-data {
+    display: none;
+}
+
+.lot-block .lot-name {
+    display: block;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.leaflet-popup-close-button {
+    display: none;
 }

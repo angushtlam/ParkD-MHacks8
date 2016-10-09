@@ -2,20 +2,38 @@
 <html>
 <head>
   <title>ParkD</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900i" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/bootstrap.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/leaflet.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-  <h1>It works!</h1>
-  <div id="map"></div>
+  <div id="panel-left">
+    <div id="overlay">
+      <h1>ParkD</h1><br />
+      <h2>Your Detroit Parking Assistant</h2>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <div id="panel-right">
+    <div id="sidebar-content">
+      <h2>L O T S</h2>
+      <input id="ui-search-bar" type="text" name="search" placeholder="Search Address">
+      <div id="sidebar-lots">
+      </div>
+    </div>
+  </div>
+
   <script src="{{ url_for('static', filename='js/lib/jquery-3.1.1.js') }}"></script>
   <script src="{{ url_for('static', filename='js/lib/bootstrap.js') }}"></script>
   <script src="{{ url_for('static', filename='js/lib/leaflet.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/leaflet-heatmap.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/load_lot_all.js') }}"></script>
   <script src="{{ url_for('static', filename='js/index.js') }}"></script>
   <script>
-    var userLat = 42.3425;
-    var userLong = -83.076550;
+    var userLat = 42.3325;
+    var userLong = -83.0501601;
   </script>
 </body>
 
