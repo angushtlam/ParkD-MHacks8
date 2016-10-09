@@ -45,4 +45,8 @@ function attachTimeButtonBehaviors() {
     $("#btn-time-midnight").click(function () {
         loadTrafficHeatMap(map, 3);
     });
+
+    $("#btn-submit").click(function () {
+       map.setZoom(17);
+    });
 }

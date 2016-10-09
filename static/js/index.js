@@ -3,14 +3,14 @@
  */
 $(document).ready(function () {
     $("#btn-start").click(function () {
-        console.log("test");
+        console.log("sup");
         $("#circle").css("display", "block");
 
         var ms = 0;
         var interval = setInterval(function () {
             $("#circle").css({
-                "width": ms * 10,
-                "height": ms * 10
+                "width": ms * 15,
+                "height": ms * 6
             });
             ms++;
 
@@ -20,6 +20,30 @@ $(document).ready(function () {
 
                 window.location.href = "map";
             }
-        }, 1);
+        }, 2);
+    });
+
+    $("#btn-help").click(function () {
+        console.log("m8");
+        $("#circle").css({
+            "display": "block",
+            "background-color": "#000"
+        });
+
+        var ms = 0;
+        var interval = setInterval(function () {
+            $("#circle").css({
+                "width": ms * 12,
+                "height": ms * 9
+            });
+            ms++;
+
+            if (ms > 300) {
+                $("#hero").addClass("animated fadeOut");
+                clearInterval(interval);
+
+                window.location.href = "about";
+            }
+        }, 2);
     });
 });

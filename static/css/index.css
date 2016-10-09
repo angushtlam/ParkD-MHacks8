@@ -27,6 +27,7 @@ body {
 .logo-content h1,
 .logo-content h2 {
     background: #ffff00;
+    color: #000;
     display: inline-block;
     letter-spacing: 1px;
     text-transform: uppercase;
