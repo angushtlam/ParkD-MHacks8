@@ -3,9 +3,9 @@ var map = null;
 $(document).ready(function () {
     setUpLeaflet();
     loadAllLotMarkersOnLeafletMap(map);
-    // loadAllTrafficDataMap(map);
-    loadTrafficHeatMap(map);
+    loadTrafficHeatMap(map, 2);
     removeLoadingScreen();
+    attachTimeButtonBehaviors();
 });
 
 function setUpLeaflet() {
@@ -30,4 +30,19 @@ function removeLoadingScreen() {
         }, 200);
 
     }, 1000);
+}
+
+function attachTimeButtonBehaviors() {
+    $("#btn-time-morning").click(function () {
+        loadTrafficHeatMap(map, 0);
+    });
+    $("#btn-time-day").click(function () {
+        loadTrafficHeatMap(map, 1);
+    });
+    $("#btn-time-afternoon").click(function () {
+        loadTrafficHeatMap(map, 2);
+    });
+    $("#btn-time-midnight").click(function () {
+        loadTrafficHeatMap(map, 3);
+    });
 }

@@ -2,7 +2,13 @@
  * Created by karenx on 10/9/16.
  */
 
-function loadTrafficHeatMap(map) {
+var currentHeatLayer = null;
+
+function loadTrafficHeatMap(map, timeId) {
+    if (currentHeatLayer != null) {
+        map.removeLayer(currentHeatLayer);
+    }
+
     $.ajax({
         url: "/api/lot/nearby",
         success: function (data, result) {
@@ -23,7 +29,24 @@ function loadTrafficHeatMap(map) {
                     llr.push(lat);
                     var lng = collegeVenues[venueIndex]["longitude"];
                     llr.push(lng);
-                    var rad = Math.max(collegeVenues[venueIndex]["check_ins"], 1000) / 5000;
+
+                    var rad = 0;
+
+                    switch (timeId) {
+                        case 0:
+                            rad = collegeVenues[venueIndex]["check_ins"];
+                            break;
+                        case 1:
+                            rad = collegeVenues[venueIndex]["check_ins"] / 2;
+                            break;
+                        case 2:
+                            rad = collegeVenues[venueIndex]["check_ins"] / 2;
+                            break;
+                        case 3:
+                            rad = 0;
+                            break;
+                    }
+
                     llr.push(rad);
 
                     heatIndices.push(llr);
@@ -36,7 +59,24 @@ function loadTrafficHeatMap(map) {
                     llr.push(lat);
                     var lng = workVenues[venueIndex]["longitude"];
                     llr.push(lng);
-                    var rad = Math.max(workVenues[venueIndex]["check_ins"], 1000) / 5000;
+
+                    var rad = 0;
+
+                    switch (timeId) {
+                        case 0:
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / 5000) / 3;
+                            break;
+                        case 1:
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / 5000);
+                            break;
+                        case 2:
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / 5000) / 2;
+                            break;
+                        case 3:
+                            rad = 0;
+                            break;
+                    }
+
                     llr.push(rad);
 
                     heatIndices.push(llr);
@@ -49,7 +89,24 @@ function loadTrafficHeatMap(map) {
                     llr.push(lat);
                     var lng = nightlife[venueIndex]["longitude"];
                     llr.push(lng);
-                    var rad = Math.max(nightlife[venueIndex]["check_ins"], 1000) / 5000;
+
+                    var rad = 0;
+
+                     switch (timeId) {
+                        case 0:
+                            rad = 0;
+                            break;
+                        case 1:
+                            rad = 0;
+                            break;
+                        case 2:
+                            rad = (Math.max(nightlife[venueIndex]["check_ins"], 1000) / 5000) / 4;
+                            break;
+                        case 3:
+                            rad = (Math.max(nightlife[venueIndex]["check_ins"], 1000) / 5000);
+                            break;
+                    }
+
                     llr.push(rad);
 
                     heatIndices.push(llr);
@@ -62,7 +119,24 @@ function loadTrafficHeatMap(map) {
                     llr.push(lat);
                     var lng = foodLife[venueIndex]["longitude"];
                     llr.push(lng);
-                    var rad = Math.max(foodLife[venueIndex]["check_ins"], 1000) / 5000;
+
+                    var rad = 0;
+
+                    switch (timeId) {
+                        case 0:
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / 5000) / 3;
+                            break;
+                        case 1:
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / 5000) / 2;
+                            break;
+                        case 2:
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / 5000);
+                            break;
+                        case 3:
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / 5000) / 2;
+                            break;
+                    }
+
                     llr.push(rad);
 
                     heatIndices.push(llr);
@@ -70,7 +144,21 @@ function loadTrafficHeatMap(map) {
                 }
             }
 
-            L.heatLayer(heatIndices, {radius: 40}).addTo(map);
+            var finalRadius = 30;
+            var currentRadius = 0;
+            var delayHeatLayer = setInterval(function () {
+                if (currentHeatLayer != null) {
+                    map.removeLayer(currentHeatLayer);
+                }
+
+                currentHeatLayer = L.heatLayer(heatIndices, {radius: currentRadius}).addTo(map);
+
+                if (currentRadius > finalRadius) {
+                    clearInterval(delayHeatLayer);
+                }
+
+                currentRadius++;
+            }, 15);
         }
 
     });

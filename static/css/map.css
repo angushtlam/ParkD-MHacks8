@@ -1,5 +1,6 @@
 html,
 body {
+    color: #000;
     font-family: "Lato", "Georgia", serif;
     height: 100%;
     margin: 0;
@@ -11,6 +12,10 @@ body {
     position: absolute;
     width: 100%;
     z-index: 1000;
+}
+
+#overlay a {
+    color: #000;
 }
 
 #modal .modal-wrapper {
@@ -175,4 +180,22 @@ body {
 
 .leaflet-popup-content-wrapper {
     border-radius: 0 !important;
+}
+
+.time-icons {
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    text-align: center;
+    padding: 10px 0;
+    margin-right: 1px;
+}
+
+.time-icon {
+    height: 50px;
+    width: 50px;
+}
+
+.time-icon:hover {
+    opacity: 0.5;
 }

@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/leaflet.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/animate.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/map.css') }}">
-  <link rel="stylesheet" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
 </head>
 <body>
   <div id="modal">
@@ -20,7 +19,7 @@
 
   <div id="panel-left">
     <div id="overlay">
-      <h1>ParkD</h1><br />
+      <a href="/"><h1>ParkD</h1></a><br />
       <h2>Your Detroit Parking Assistant</h2>
     </div>
     <div id="map"></div>
@@ -34,6 +33,21 @@
         <span class="input-group-btn">
           <button class="btn btn-secondary" type="button">></button>
         </span>
+      </div>
+
+      <div class="time-icons clearfix">
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-morning" src="{{ url_for('static', filename='assets/morning.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-day" src="{{ url_for('static', filename='assets/day.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-afternoon" src="{{ url_for('static', filename='assets/afternoon.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-midnight" src="{{ url_for('static', filename='assets/midnight.png') }}" />
+        </div>
       </div>
 
       <div id="sidebar-lots">
