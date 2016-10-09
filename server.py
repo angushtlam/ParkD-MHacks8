@@ -57,8 +57,8 @@ def api_lot_all():
 
 @app.route('/api/lot/nearby')
 def api_lot_surrounding():
-    if not request.args:
-        return "{\"response\": \"error\"}"
+    # if not request.args:
+    #     return "{\"response\": \"error\"}"
 
     json_data = {
         "results": {
@@ -2234,7 +2234,8 @@ def api_lot_surrounding():
             }
         }
     }
-    return json.dumps(json_data["results"][request.args.get('id')])
+    # return json.dumps(json_data["results"][request.args.get('id')])
+    return json.dumps(json_data["results"])
 
 
 @app.route('/api/map')
