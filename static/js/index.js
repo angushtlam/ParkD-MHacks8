@@ -1,45 +1,49 @@
-var map = null;
-
+/**
+ * Created by angus on 10/9/16.
+ */
 $(document).ready(function () {
-    setUpLeaflet();
-    loadAllLotMarkersOnLeafletMap(map);
-    loadAllTrafficDataMap(map);
-    loadTrafficHeatMap(map);
-    removeLoadingScreen();
-    attachTimeButtonBehaviors();
+    $("#btn-start").click(function () {
+        console.log("sup");
+        $("#circle").css("display", "block");
+
+        var ms = 0;
+        var interval = setInterval(function () {
+            $("#circle").css({
+                "width": ms * 15,
+                "height": ms * 6
+            });
+            ms++;
+
+            if (ms > 300) {
+                $("#hero").addClass("animated fadeOut");
+                clearInterval(interval);
+
+                window.location.href = "map";
+            }
+        }, 2);
+    });
+
+    $("#btn-help").click(function () {
+        console.log("m8");
+        $("#circle").css({
+            "display": "block",
+            "background-color": "#000"
+        });
+
+        var ms = 0;
+        var interval = setInterval(function () {
+            $("#circle").css({
+                "width": ms * 12,
+                "height": ms * 9
+            });
+            ms++;
+
+            if (ms > 300) {
+                $("#hero").addClass("animated fadeOut");
+                clearInterval(interval);
+
+                window.location.href = "about";
+            }
+        }, 2);
+    });
 });
-
-function setUpLeaflet() {
-    map = L.map("map", {closePopupOnClick: false}).setView([userLat, userLong], 15);
-
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        minZoom: 13,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-}
-
-function removeLoadingScreen() {
-    setInterval(function () {
-        $("#modal").addClass("animated rollOut");
-        $(".lot-block").addClass("animated lightSpeedIn");
-
-        setInterval(function () {
-            $("#modal").css("display", "none");
-        }, 200);
-    }, 1000);
-}
-
-function attachTimeButtonBehaviors() {
-    $("#btn-time-morning").click(function () {
-       loadTrafficHeatMap(map, 0);
-    });
-    $("#btn-time-day").click(function () {
-       loadTrafficHeatMap(map, 1);
-    });
-    $("#btn-time-afternoon").click(function () {
-       loadTrafficHeatMap(map, 2);
-    });
-    $("#btn-time-midnight").click(function () {
-       loadTrafficHeatMap(map, 3);
-    });
-}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ParkD</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900i" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/bootstrap.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/leaflet.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/animate.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/map.css') }}">
+</head>
+<body>
+  <div id="modal">
+    <div class="modal-wrapper">
+      <div class="modal">
+        <img src="{{ url_for('static', filename='assets/loading.gif') }}" />
+      </div>
+    </div>
+  </div>
+
+  <div id="panel-left">
+    <div id="overlay">
+      <a href="/"><h1>ParkD</h1></a><br />
+      <h2>Your Detroit Parking Assistant</h2>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <div id="panel-right">
+    <div id="sidebar-content">
+      <h2>PARKING LOTS</h2>
+      <div class="input-group">
+        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Search Address">
+        <span class="input-group-btn">
+          <button class="btn btn-secondary" id="btn-submit" type="button">></button>
+        </span>
+      </div>
+
+      <div class="time-icons clearfix">
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-morning" src="{{ url_for('static', filename='assets/morning.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-day" src="{{ url_for('static', filename='assets/day.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-afternoon" src="{{ url_for('static', filename='assets/afternoon.png') }}" />
+        </div>
+        <div class="col-xs-3">
+          <img class="time-icon" id="btn-time-midnight" src="{{ url_for('static', filename='assets/midnight.png') }}" />
+        </div>
+      </div>
+
+      <div id="sidebar-list">
+        <div id="sidebar-lots">
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="{{ url_for('static', filename='js/lib/jquery-3.1.1.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/bootstrap.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/leaflet.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/leaflet-heatmap.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/load_lot_all.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/load_traffic_data.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/heatmap.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+  <script>
+    var userLat = 42.3325;
+    var userLong = -83.0501601;
+  </script>
+</body>
+
+</html>

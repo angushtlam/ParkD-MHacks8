@@ -1,0 +1,110 @@
+html,
+body {
+    font-family: "Lato", "Georgia", serif;
+    margin: 0;
+    height: 100%;
+}
+
+#hero {
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo-content {
+    text-align: left !important;
+    display: inline-block;
+}
+
+.logo-content h1,
+.logo-content h2 {
+    background: #ffff00;
+    color: #000;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.logo-content h1 {
+    font-size: 90px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.logo-content h2 {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+body {
+    background: url("../assets/hero.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.btn-secondary,
+.btn-warning {
+    animation-delay: 1.5s;
+    border-radius: 0;
+    font-size: 18px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.btn-secondary {
+    background-color: #000;
+    border: 0;
+    color: #ffff00;
+}
+
+.btn-secondary:hover,
+.btn-secondary:active,
+.btn-secondary:visited {
+    background-color: #ffff00 !important;
+    border: 0 !important;
+    color: #000 !important;
+}
+
+
+.btn-warning {
+    background-color: #ffff00;
+    border: 0;
+    color: #000;
+}
+
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:visited {
+    background-color: #000 !important;
+    border: 0 !important;
+    color: #ffff00 !important;
+}
+
+#shape-trans {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+#circle {
+    background-color: #ffff00;
+    border-radius: 50%;
+    bottom: -500px;
+    display: none;
+    right: -500px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}

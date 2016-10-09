@@ -6,71 +6,36 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/bootstrap.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/leaflet.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/lib/animate.css') }}">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
 </head>
+
 <body>
-  <div id="modal">
-    <div class="modal-wrapper">
-      <div class="modal">
-        <img src="{{ url_for('static', filename='assets/loading.gif') }}" />
-      </div>
+
+<div id="hero">
+  <div class="content">
+    <div class="logo">
+      <div class="logo-content animated lightSpeedIn">
+        <h1>ParkD</h1><br />
+        <h2>Your Detroit Parking Assistant</h2>
+      </div><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <button class="btn btn-secondary btn-big animated fadeIn" id="btn-start">Get Started</button>
+      <button class="btn btn-warning btn-big animated fadeIn" id="btn-help">?</button>
     </div>
   </div>
+</div>
 
-  <div id="panel-left">
-    <div id="overlay">
-      <h1>ParkD</h1><br />
-      <h2>Your Detroit Parking Assistant</h2>
-    </div>
-    <div id="map"></div>
-  </div>
+<div id="shape-trans">
+  <div id="circle"></div>
+</div>
 
-  <div id="panel-right">
-    <div id="sidebar-content">
-      <h2>L O T S</h2>
-      <div class="input-group">
-        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Search Address" onchange="showValue(this.value)">
-        <span class="input-group-btn">
-          <button class="btn btn-secondary" type="button">></button>
-        </span>
-      </div>
+<script src="{{ url_for('static', filename='js/lib/jquery-3.1.1.js') }}"></script>
+<script src="{{ url_for('static', filename='js/lib/bootstrap.js') }}"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
 
-
-      <div id="sidebar-lots">
-      </div>
-        <button id="btn-time-morning">Morning</button>
-        <button id="btn-time-day">Day</button>
-        <button id="btn-time-afternoon">Afternoon</button>
-        <button id="btn-time-midnight">Midnight</button>
-    </div>
-  </div>
-
-
-  <script src="{{ url_for('static', filename='js/lib/jquery-3.1.1.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/lib/bootstrap.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/lib/leaflet.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/lib/leaflet-heatmap.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/load_lot_all.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/load_traffic_data.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/heatmap.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/index.js') }}"></script>
-  <script>
-    var userLat = 42.3325;
-    var userLong = -83.0501601;
-  </script>
 </body>
-
 </html>
-
-
-{#        <input type="range" min="0" max="23" value="12" step="1" onchange="showValue(this.value)" />
-        <span id="range">12</span>
-        <script type="text/javascript">
-            var timeValue = 20;
-
-            function showValue(newValue)
-            {
-                timeValue = newValue;
-	            document.getElementById("range").innerHTML=newValue;
-            }
-            </script>#}

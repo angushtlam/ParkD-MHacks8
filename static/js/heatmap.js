@@ -4,10 +4,6 @@
 
 var currentHeatLayer = null;
 
-function loadTrafficHeatMap(map) {
-    loadTrafficHeatMap(map, 1);
-}
-
 function loadTrafficHeatMap(map, timeId) {
     if (currentHeatLayer != null) {
         map.removeLayer(currentHeatLayer);
@@ -23,6 +19,8 @@ function loadTrafficHeatMap(map, timeId) {
 
             var keys = Object.keys(json_data);
             var values = keys.map(function(v) { return json_data[v]; });
+            
+            var divisor = 10000;
 
             for (var i = 0; i < values.length; i++) {
                 var lot = values[i];
@@ -33,23 +31,23 @@ function loadTrafficHeatMap(map, timeId) {
                     llr.push(lat);
                     var lng = collegeVenues[venueIndex]["longitude"];
                     llr.push(lng);
+
                     var rad = 0;
 
                     switch (timeId) {
                         case 0:
-                            rad = collegeVenues[venueIndex]["check_ins"];
+                            rad = (Math.max(collegeVenues[venueIndex]["check_ins"], 1000) / divisor);
                             break;
                         case 1:
-                            rad = collegeVenues[venueIndex]["check_ins"] / 2;
+                            rad = (Math.max(collegeVenues[venueIndex]["check_ins"], 1000) / divisor) / 2;
                             break;
                         case 2:
-                            rad = collegeVenues[venueIndex]["check_ins"] / 2;
+                            rad = (Math.max(collegeVenues[venueIndex]["check_ins"], 1000) / divisor) / 2;
                             break;
                         case 3:
                             rad = 0;
                             break;
                     }
-
 
                     llr.push(rad);
 
@@ -63,17 +61,18 @@ function loadTrafficHeatMap(map, timeId) {
                     llr.push(lat);
                     var lng = workVenues[venueIndex]["longitude"];
                     llr.push(lng);
+
                     var rad = 0;
 
                     switch (timeId) {
                         case 0:
-                            rad = workVenues[venueIndex]["check_ins"];
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / divisor) / 3;
                             break;
                         case 1:
-                            rad = workVenues[venueIndex]["check_ins"];
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / divisor);
                             break;
                         case 2:
-                            rad = workVenues[venueIndex]["check_ins"] / 2;
+                            rad = (Math.max(workVenues[venueIndex]["check_ins"], 1000) / divisor) / 2;
                             break;
                         case 3:
                             rad = 0;
@@ -92,6 +91,7 @@ function loadTrafficHeatMap(map, timeId) {
                     llr.push(lat);
                     var lng = nightlife[venueIndex]["longitude"];
                     llr.push(lng);
+
                     var rad = 0;
 
                      switch (timeId) {
@@ -102,10 +102,10 @@ function loadTrafficHeatMap(map, timeId) {
                             rad = 0;
                             break;
                         case 2:
-                            rad = nightlife[venueIndex]["check_ins"] / 5;
+                            rad = (Math.max(nightlife[venueIndex]["check_ins"], 1000) / divisor) / 4;
                             break;
                         case 3:
-                            rad = nightlife[venueIndex]["check_ins"];
+                            rad = (Math.max(nightlife[venueIndex]["check_ins"], 1000) / divisor);
                             break;
                     }
 
@@ -121,20 +121,21 @@ function loadTrafficHeatMap(map, timeId) {
                     llr.push(lat);
                     var lng = foodLife[venueIndex]["longitude"];
                     llr.push(lng);
+
                     var rad = 0;
 
                     switch (timeId) {
                         case 0:
-                            rad = foodLife[venueIndex]["check_ins"];
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / divisor) / 3;
                             break;
                         case 1:
-                            rad = foodLife[venueIndex]["check_ins"];
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / divisor) / 2;
                             break;
                         case 2:
-                            rad = foodLife[venueIndex]["check_ins"];
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / divisor);
                             break;
                         case 3:
-                            rad = foodLife[venueIndex]["check_ins"] / 2;
+                            rad = (Math.max(foodLife[venueIndex]["check_ins"], 1000) / divisor) / 2;
                             break;
                     }
 
@@ -145,7 +146,21 @@ function loadTrafficHeatMap(map, timeId) {
                 }
             }
 
-            currentHeatLayer = L.heatLayer(heatIndices, {radius: 15}).addTo(map);
+            var finalRadius = 30;
+            var currentRadius = 0;
+            var delayHeatLayer = setInterval(function () {
+                if (currentHeatLayer != null) {
+                    map.removeLayer(currentHeatLayer);
+                }
+
+                currentHeatLayer = L.heatLayer(heatIndices, {radius: currentRadius}).addTo(map);
+
+                if (currentRadius > finalRadius) {
+                    clearInterval(delayHeatLayer);
+                }
+
+                currentRadius++;
+            }, 15);
         }
 
     });

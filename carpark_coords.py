@@ -15,6 +15,9 @@ with open("carpark_data.csv") as f:
         google_api_link = "https://maps.googleapis.com/maps/api/geocode/json?address=" + addr.replace(' ', '+') + ",+Detroit,+MI" + "&key=AIzaSyBfzTYqpErU96463MzQqGLHD1mnrW1nnY8"
         req_json = requests.get(google_api_link).json()
 
+        if not req_json["results"]:
+            continue
+
         json_output.append({
             "id": row["OBJECTID"],
             "address": addr,
