@@ -1,11 +1,14 @@
 /**
- * Created by angus on 10/8/16.
+ * Created by karenx on 10/9/16.
  */
 
-function loadAllTrafficDataMap(map) {
+function loadTrafficHeatMap(map) {
     $.ajax({
         url: "/api/lot/nearby",
         success: function (data, result) {
+            var heatIndices = [];
+            var llr = [];
+
             var json_data = JSON.parse(data);
 
             var keys = Object.keys(json_data);
@@ -17,71 +20,57 @@ function loadAllTrafficDataMap(map) {
                 var collegeVenues = lot["categories"]["college"];
                 for (var venueIndex = 0; venueIndex < collegeVenues.length; venueIndex++) {
                     var lat = collegeVenues[venueIndex]["latitude"];
+                    llr.push(lat);
                     var lng = collegeVenues[venueIndex]["longitude"];
+                    llr.push(lng);
                     var rad = collegeVenues[venueIndex]["check_ins"];
+                    llr.push(rad);
 
-                    if (rad > 40) rad = 40;
-                    else if (rad < 10) rad = 10;
-
-                     L.circle([lat, lng], {
-                        color: 'red',
-                        fillColor: '#f03',
-                        fillOpacity: 0.1,
-                        radius: rad
-                     }).addTo(map);
+                    heatIndices.push(llr);
+                    llr = [];
                 }
 
                 var workVenues = lot["categories"]["work"];
                 for (var venueIndex = 0; venueIndex < workVenues.length; venueIndex++) {
                     var lat = workVenues[venueIndex]["latitude"];
+                    llr.push(lat);
                     var lng = workVenues[venueIndex]["longitude"];
+                    llr.push(lng);
                     var rad = workVenues[venueIndex]["check_ins"];
+                    llr.push(rad);
 
-                    if (rad > 40) rad = 40;
-                    else if (rad < 10) rad = 10;
-
-                     L.circle([lat, lng], {
-                        color: 'blue',
-                        fillColor: '#70E9FF',
-                        fillOpacity: 0.1,
-                        radius: rad
-                     }).addTo(map);
+                    heatIndices.push(llr);
+                    llr = [];
                 }
 
                 var nightlife = lot["categories"]["nightlife"];
                 for (var venueIndex = 0; venueIndex < nightlife.length; venueIndex++) {
                     var lat = nightlife[venueIndex]["latitude"];
+                    llr.push(lat);
                     var lng = nightlife[venueIndex]["longitude"];
+                    llr.push(lng);
                     var rad = nightlife[venueIndex]["check_ins"];
+                    llr.push(rad);
 
-                    if (rad > 40) rad = 40;
-                    else if (rad < 10) rad = 10;
-
-                     L.circle([lat, lng], {
-                        color: 'green',
-                        fillColor: '#74FF70',
-                        fillOpacity: 0.1,
-                        radius: rad
-                     }).addTo(map);
+                    heatIndices.push(llr);
+                    llr = [];
                 }
 
                 var foodLife = lot["categories"]["food"];
                 for (var venueIndex = 0; venueIndex < foodLife.length; venueIndex++) {
                     var lat = foodLife[venueIndex]["latitude"];
+                    llr.push(lat);
                     var lng = foodLife[venueIndex]["longitude"];
+                    llr.push(lng);
                     var rad = foodLife[venueIndex]["check_ins"];
+                    llr.push(rad);
 
-                    if (rad > 40) rad = 40;
-                    else if (rad < 10) rad = 10;
-
-                     L.circle([lat, lng], {
-                        color: 'yellow',
-                        fillColor: '#FFF520',
-                        fillOpacity: 0.1,
-                        radius: rad
-                     }).addTo(map);
+                    heatIndices.push(llr);
+                    llr = [];
                 }
             }
+
+            L.heatLayer(heatIndices, {radius: 15}).addTo(map);
         }
 
     });

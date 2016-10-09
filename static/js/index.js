@@ -3,6 +3,8 @@ var map = null;
 $(document).ready(function () {
     setUpLeaflet();
     loadAllLotMarkersOnLeafletMap(map);
+    loadAllTrafficDataMap(map);
+    loadTrafficHeatMap(map);
     removeLoadingScreen();
 });
 
