@@ -6,6 +6,7 @@ $(document).ready(function () {
     loadAllTrafficDataMap(map);
     loadTrafficHeatMap(map);
     removeLoadingScreen();
+    attachTimeButtonBehaviors();
 });
 
 function setUpLeaflet() {
@@ -26,4 +27,19 @@ function removeLoadingScreen() {
             $("#modal").css("display", "none");
         }, 200);
     }, 1000);
+}
+
+function attachTimeButtonBehaviors() {
+    $("#btn-time-morning").click(function () {
+       loadTrafficHeatMap(map, 0);
+    });
+    $("#btn-time-day").click(function () {
+       loadTrafficHeatMap(map, 1);
+    });
+    $("#btn-time-afternoon").click(function () {
+       loadTrafficHeatMap(map, 2);
+    });
+    $("#btn-time-midnight").click(function () {
+       loadTrafficHeatMap(map, 3);
+    });
 }

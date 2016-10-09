@@ -29,14 +29,19 @@
     <div id="sidebar-content">
       <h2>L O T S</h2>
       <div class="input-group">
-        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Search Address">
+        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Search Address" onchange="showValue(this.value)">
         <span class="input-group-btn">
           <button class="btn btn-secondary" type="button">></button>
         </span>
       </div>
 
+
       <div id="sidebar-lots">
       </div>
+        <button id="btn-time-morning">Morning</button>
+        <button id="btn-time-day">Day</button>
+        <button id="btn-time-afternoon">Afternoon</button>
+        <button id="btn-time-midnight">Midnight</button>
     </div>
   </div>
 
@@ -56,3 +61,16 @@
 </body>
 
 </html>
+
+
+{#        <input type="range" min="0" max="23" value="12" step="1" onchange="showValue(this.value)" />
+        <span id="range">12</span>
+        <script type="text/javascript">
+            var timeValue = 20;
+
+            function showValue(newValue)
+            {
+                timeValue = newValue;
+	            document.getElementById("range").innerHTML=newValue;
+            }
+            </script>#}
