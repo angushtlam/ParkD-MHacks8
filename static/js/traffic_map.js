@@ -4,6 +4,20 @@
 
 var currentHeatLayer = null;
 
+function loadTrafficHeatMapNow(map) {
+  var hour = moment.tz("America/Detroit").hour();
+
+  if (hour > 22 || hour < 6) {
+    loadTrafficHeatMap(map, 3);
+  } else if (hour < 11) {
+    loadTrafficHeatMap(map, 0);
+  } else if (hour < 16) {
+    loadTrafficHeatMap(map, 1);
+  } else {
+    loadTrafficHeatMap(map, 2);
+  }
+}
+
 function loadTrafficHeatMap(map, timeId) {
     if (currentHeatLayer != null) {
         map.removeLayer(currentHeatLayer);
@@ -19,7 +33,7 @@ function loadTrafficHeatMap(map, timeId) {
 
             var keys = Object.keys(json_data);
             var values = keys.map(function(v) { return json_data[v]; });
-            
+
             var divisor = 10000;
 
             for (var i = 0; i < values.length; i++) {

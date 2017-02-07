@@ -48,7 +48,7 @@ for carpark in json_data:
 
         foursquare_resp = client.venues.search(params={
             "ll": str(lat) + "," + str(long),
-            "radius": 500,
+            "radius": 1000,
             "categoryId": cat_id_values[cat_id_index]
         })
 

@@ -29,10 +29,7 @@
     <div id="sidebar-content">
       <h2>PARKING LOTS</h2>
       <div class="input-group">
-        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Search Address">
-        <span class="input-group-btn">
-          <button class="btn btn-secondary" id="btn-submit" type="button">></button>
-        </span>
+        <input class="form-control" id="ui-search-bar" type="text" name="search" placeholder="Select a Lot" disabled>
       </div>
 
       <div class="time-icons clearfix">
@@ -62,9 +59,11 @@
   <script src="{{ url_for('static', filename='js/lib/bootstrap.js') }}"></script>
   <script src="{{ url_for('static', filename='js/lib/leaflet.js') }}"></script>
   <script src="{{ url_for('static', filename='js/lib/leaflet-heatmap.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/moment.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/lib/moment-timezone-with-data-2010-2020.js') }}"></script>
   <script src="{{ url_for('static', filename='js/load_lot_all.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/load_traffic_data.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/heatmap.js') }}"></script>
+  <!-- <script src="{{ url_for('static', filename='js/load_traffic_data.js') }}"></script> -->
+  <script src="{{ url_for('static', filename='js/traffic_map.js') }}"></script>
   <script src="{{ url_for('static', filename='js/map.js') }}"></script>
   <script>
     var userLat = 42.3325;
